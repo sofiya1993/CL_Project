@@ -15,12 +15,12 @@ def corpus_checking(corpus_root):
     """
     reader = PlaintextCorpusReader(corpus_root, '.*\.txt')
     words=set(w.lower() for w in reader.words() if w.isalpha() and w.lower() not in stopwords )
-    if len(words) < 550:
+    if len(words) < 100:
         print ("Додай, будь-ласка, мила, ще трохи відгуків.")
         print (len(words))
     else:
         print (words)
-        f=open(corpus_root+'\Romanyuk_wordslist.txt','w')
+        f=open(corpus_root+'\wordslist.txt','w')
         for word in words:
             f.write(word+'\n')
         f.close()
