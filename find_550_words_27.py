@@ -22,7 +22,8 @@ def corpus_checking(corpus_root):
         print ("Додай, будь-ласка, мила, ще трохи відгуків.")
         print (len(words))
     else:
-        print (words)
+        for w in words:
+            print w
         f=open(corpus_root+'\Romanyuk_wordslist.txt','w')
         for word in words:
             f.write(word.encode('utf-8')+'\n')
