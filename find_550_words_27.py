@@ -9,7 +9,8 @@ Spyder Editor
 import nltk
 from nltk.corpus import PlaintextCorpusReader
 # set path to file with ukrainian stopwords
-stopwords_path = 'E:\Files'
+#stopwords_path = 'E:/Files'
+stopwords_path = 'C:/nltk_data/corpora/stopwords'
 stopwords=PlaintextCorpusReader(stopwords_path, 'ukrainian1', encoding='utf-8').words()
 def corpus_checking(corpus_root):
     """Function for personal corpus (all txt files in "corpus_root" ) creation 
