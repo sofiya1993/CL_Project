@@ -17,3 +17,12 @@ Lydmula Brailova_04_01_2015_01.txt http://v.lviv.ua/catalog/food/kafe/rudiy-kit.
 Lydmula Brailova_04_01_2015_02.txt http://v.lviv.ua/catalog/food/kafe/rudiy-kit.html
 
 ira_tyzber_03_01_2015.txt http://v.lviv.ua/catalog/food/kafe/rudiy-kit.html
+
+Zoriana_28_12_2011.txt
+http://v.lviv.ua/catalog/food/kafe/rudiy-kit.html/comment-page-2#comments
+
+Ksyu_21_04_2009.txt
+http://v.lviv.ua/catalog/food/kafe/rudiy-kit.html/comment-page-1#comments
+
+dora_12_01_2010.txt 
+http://v.lviv.ua/catalog/food/kafe/rudiy-kit.html/comment-page-1#comments
