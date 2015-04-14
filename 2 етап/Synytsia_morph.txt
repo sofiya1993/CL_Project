@@ -1,0 +1,3262 @@
+Token	Lemma	Part-of-speech	Chunk
+	- 
+SENT_START 
+STAVROS	- - 
+KURIERIS	- - 
+-	- - 
+брудна	брудний adj:f:v_naz:compb 
+тварюка	тварюка noun:f:v_naz:anim 
+або	або conj:coord 
+власник	власник noun:m:v_naz:anim 
+"	- - 
+ресторану	ресторан noun:m:v_dav 
+                     noun:m:v_mis 
+"	- - 
+.	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Він	він pron:pers:m:3:v_naz:anim
+шахрай	шахрай noun:m:v_naz:anim 
+-	- - 
+і	і conj:coord part 
+все	все adv:v-u 
+        conj:coord:v-u 
+        part:v-u 
+    весь adj:n:v_naz:&pron:dem 
+         adj:n:v_zna:&pron:dem 
+,	- - 
+що	що conj:subord 
+       pron:int:rel:n:v_naz 
+       pron:int:rel:n:v_zna 
+він	він pron:pers:m:3:v_naz:anim
+робить	робити verb:pres:s:3:imperf 
+-	- - 
+ШАХРАЙСТВО	шахрайство noun:n:v_naz 
+                       noun:n:v_zna 
+!	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Обманює	обманювати verb:pres:s:3:imperf 
+клієнтів	клієнт noun:p:v_rod:anim 
+                   noun:p:v_zna:anim 
+-	- - 
+не	не part 
+тільки	тільки adv 
+               conj:subord 
+			   part 
+у	у prep:rv_zna:rv_mis:rv_rod:v-u 
+цьому	цей adj:m:v_dav:&pron:dem 
+            adj:m:v_mis:&pron:dem 
+            adj:n:v_dav:&pron:dem 
+            adj:n:v_mis:&pron:dem 
+закладі	заклад noun:m:v_mis 
+,	- - 
+дурить	дурити verb:pres:s:3:imperf 
+партнерів	партнер noun:p:v_rod:anim 
+                    noun:p:v_zna:anim 
+(	- - 
+аферист	аферист noun:m:v_naz:anim 
+)	- - 
+,	- - 
+"	- - 
+кидає	кидати verb:pres:s:3:imperf 
+"	- - 
+на	на excl 
+       part 
+       prep:rv_zna:rv_mis 
+гроші	гроші noun:p:v_naz 
+              noun:p:v_zna
+        гріш noun:m:v_mis 
+друзів	друзі noun:p:v_rod:anim 
+              noun:p:v_zna:anim 
+.	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Люди	Люда noun:f:v_rod:coll:anim:fnamenoun:p:v_kly:anim 
+        люди noun:p:v_kly:anim 
+             noun:p:v_naz:anim
+для	для prep:rv_rod 
+нього	він pron:pers:m:3:v_rod:anim 
+            pron:pers:m:3:v_zna:anim 
+        воно pron:pers:n:3:v_rod 
+             pron:pers:n:3:v_zna 
+-	- - 
+МАТЕРІАЛ	матеріал noun:m:v_naz 
+                     noun:m:v_zna 
+для	для prep:rv_rod 
+заробітку	заробіток noun:m:v_dav 
+                      noun:m:v_mis 
+                      noun:m:v_rod 
+грошей	гроші noun:p:v_rod 
+!	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+По	по prep:rv_mis:rv_zna 
+всьому	весь adj:m:v_dav:&pron:dem 
+             adj:m:v_mis:&pron:dem 
+             adj:n:v_dav:&pron:dem 
+             adj:n:v_mis:&pron:dem 
+місту	місто noun:n:v_dav 
+              noun:n:v_mis 
+винен	винний adj:m:v_naz:contr 
+               adj:m:v_zna:contr 
+грошей	гроші noun:p:v_rod 
+.	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Хабарами	хабар noun:p:v_oru 
+вирішує	вирішувати verb:pres:s:3:imperf 
+усі	увесь adj:p:v_naz:&pron:dem 
+          adj:p:v_zna:&pron:dem 
+проблемні	проблемний adj:p:v_naz:compb 
+                       adj:p:v_zna:compb 
+справи	справа noun:f:v_rod 
+               noun:p:v_naz 
+               noun:p:v_zna 
+,	- - 
+яких	який adj:p:v_mis:&pron:int:rel:def 
+             adj:p:v_rod:&pron:int:rel:def 
+             adj:p:v_zna:&pron:int:rel:def
+з	з prep:rv_rod:rv_zna:rv_oru 
+кожним	кожний adj:m:v_oru:&pron:def 
+               adj:n:v_oru:&pron:def 
+               adj:p:v_dav:&pron:def 
+роком	рок noun:m:v_oru 
+        рік noun:m:v_oru 
+його	його adj:m:nv:&pron:pos 
+             adj:n:nv:&pron:pos 
+        він  pron:pers:m:3:v_rod:anim 
+             pron:pers:m:3:v_zna:anim 
+        воно pron:pers:n:3:v_rod 
+             pron:pers:n:3:v_zna 
+перебування	перебування noun:n:v_naz 
+                        noun:n:v_rod 
+                        noun:n:v_zna 
+                        noun:p:v_naz 
+                        noun:p:v_zna 
+у	у prep:rv_zna:rv_mis:rv_rod:v-u 
+Львові	Львів noun:m:v_mis 
+все	все adv:v-u 
+        conj:coord:v-u 
+        part:v-u 
+    весь adj:n:v_naz:&pron:dem 
+         adj:n:v_zna:&pron:dem 
+більше	багато adv:compr 
+               adj:n:v_naz:compr 
+        великий adj:n:v_zna:compr 
+і	    і conj:coord 
+          part 
+більше	багато adv:compr 
+        великий adj:n:v_naz:compr 
+                adj:n:v_zna:compr 
+...	- 
+SENT_END 
+Disambiguator log: 
+DIS_PREP_OR_NOUN_DO:1 до[до/noun:n:v_dav:nv,до/noun:n:v_mis:nv,до/noun:n:v_naz:nv,до/noun:n:v_oru:nv,до/noun:n:v_rod:nv,до/noun:n:v_zna:nv,до/noun:p:v_dav:nv,до/noun:p:v_mis:nv,до/noun:p:v_naz:nv,до/noun:p:v_oru:nv,до/noun:p:v_rod:nv,до/noun:p:v_zna:nv,до/prep:rv_rod] -> до[до/prep:rv_rod]
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Знають	знати verb:pres:p:3:imperf 
+його	його adj:m:nv:&pron:pos 
+             adj:n:nv:&pron:pos 
+        він  pron:pers:m:3:v_rod:anim 
+             pron:pers:m:3:v_zna:anim  
+        воно pron:pers:n:3:v_rod 
+             pron:pers:n:3:v_zna 
+у	у prep:rv_zna:rv_mis:rv_rod:v-u 
+всіх	весь adj:p:v_mis:&pron:dem 
+             adj:p:v_rod:&pron:dem 
+             adj:p:v_zna:&pron:dem 
+інстанціях	інстанція noun:p:v_mis 
+нашого	наш adj:m:v_rod:&pron:pos 
+            adj:m:v_zna:&pron:pos 
+            adj:n:v_rod:&pron:pos 
+Львова	Львів noun:m:v_rod 
+і	і conj:coord 
+      part 
+поки	поки adv:&pron:int:rel 
+             conj:subord 
+що	що conj:subord 
+       pron:int:rel:n:v_naz 
+       pron:int:rel:n:v_zna 
+прикривають	прикривати verb:pres:p:3:imperf 
+,	- - 
+звісно	звісно adv 
+,	- - 
+за	за prep:rv_rod:rv_zna:rv_oru 
+"	- - 
+бабло	бабло noun:n:v_naz:slang 
+              noun:n:v_zna:slang 
+"	- - 
+і	і conj:coord 
+      part 
+триватиме	тривати verb:futr:s:3:imperf 
+це	цей adj:n:v_naz:&pron:dem 
+        adj:n:v_zna:&pron:dem 
+до	до prep:rv_rod 
+тих	той adj:p:v_mis:&pron:dem 
+        adj:p:v_rod:&pron:dem 
+        adj:p:v_zna:&pron:dem 
+пір	пора noun:p:v_rod 
+поки	поки adv:&pron:int:rel 
+             conj:subord 
+на	на excl 
+       part 
+       prep:rv_zna:rv_mis 
+бабло	бабло noun:n:v_naz:slang 
+              noun:n:v_zna:slang 
+не	не part 
+"	- - 
+попаде	попадя  noun:f:v_kly:anim 
+        попасти verb:futr:s:3:perf 
+"	- - 
+крутий	крутий adj:m:v_naz:compb 
+               adj:m:v_zna:compb 
+корупціонер	корупціонер noun:m:v_naz:anim 
+хабарник	хабарник noun:m:v_naz:anim 
+...	- - 
+і	і conj:coord 
+      part 
+не	не part 
+викрутить	викрутити verb:futr:s:3:perf 
+йому	він pron:pers:m:3:v_dav:anim 
+        воно pron:pers:n:3:v_dav 
+яйця	яйце noun:n:v_rod 
+             noun:p:v_naz 
+             noun:p:v_zna 
+...	- - 
+або	або conj:coord 
+втратить	втратити verb:futr:s:3:perf:v-u 
+через	через prep:rv_zna 
+цього	цей adj:m:v_rod:&pron:dem 
+            adj:m:v_zna:&pron:dem 
+            adj:n:v_rod:&pron:dem 
+виродка	виродок noun:m:v_rod:anim 
+                noun:m:v_zna:anim 
+свою	свій adj:f:v_zna:&pron:pos 
+посаду	посада noun:f:v_zna 
+.	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Тому-то	тому-то conj 
+,	- - 
+шановні	шановний adj:p:v_naz 
+                 adj:p:v_zna 
+,	- - 
+заклад	заклад noun:m:v_naz 
+               noun:m:v_zna 
+ніщо ніщо pron:neg:v_naz 
+          pron:neg:v_zna  
+.	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Працівники	працівник noun:p:v_kly:anim 
+                      noun:p:v_naz:anim 
+,	- - 
+звісно	звісно adv 
+,	- - 
+цього	цей adj:m:v_rod:&pron:dem
+            adj:m:v_zna:&pron:dem
+            adj:n:v_rod:&pron:dem 
+"	- - 
+ресторану	ресторан noun:m:v_dav 
+                     noun:m:v_mis 
+                     noun:m:v_rod 
+"	- - 
+гроші	гроші noun:p:v_naz 
+              noun:p:v_zna 
+        гріш noun:m:v_mis 
+отримують	отримувати verb:pres:p:3:imperf 
+не	не part 
+часто	часто adv:compb 
+і	і conj:coord 
+      part 
+дуже	дуже adv adj:n:v_naz:compb 
+        дужий adj:n:v_zna:compb 
+              adj:n:v_zna:compb 
+мало	мало adv:compb 
+        мати verb:past:n:imperf 
+,	- - 
+так	так adv:&pron:dem 
+        conj:coord:subord 
+        part 
+і	і conj:coord 
+      part 
+працюють	працювати verb:pres:p:3:imperf 
+.	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+ОБЕРЕЖНО	обережно adv:compb 
+-	- - 
+ВЛАСНИК	власник noun:m:v_naz:anim 
+РЕСТОРАНУ	ресторан noun:m:v_dav 
+                     noun:m:v_mis 
+					 noun:m:v_rod 
+,	- - 
+СТАВРОС	- - 
+КУРІЄРІС	- - 
+,	- - 
+ШАХРАЙ	шахрай noun:m:v_naz:anim 
+і	і conj:coord 
+      part 
+АФЕРИСТ	аферист noun:m:v_naz:anim 
+!	- - 
+!	- - 
+!	- - 
+!	- - 
+!	- 
+
+SENT_END 
+PARA_END 
+- 
+SENT_START 
+Готують	готувати verb:pres:p:3:imperf 
+смачно	смачно adv:compb 
+,	- - 
+дякую	дякувати verb:pres:s:1:imperf 
+шеф-повару	шеф-повар noun:m:v_dav:anim 
+                      noun:m:v_mis:anim 
+,	- - 
+а	а conj:coord 
+      excl 
+	  part 
+ось	ось part 
+обслуговування	обслуговування noun:n:v_naz 
+                               noun:n:v_rod 
+                               noun:n:v_zna 
+                               noun:p:v_naz 
+                               noun:p:v_zna 
+дуже	дуже adv
+        дужий adj:n:v_naz:compb 
+              adj:n:v_zna:compb 
+гидке	гидкий adj:n:v_naz 
+               adj:n:v_zna 
+...	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Офіціанти	офіціант noun:p:v_kly:anim 
+                     noun:p:v_naz:anim 
+неввічливі	неввічливий adj:p:v_naz 
+                        adj:p:v_zna 
+,	- - 
+неодноразово	неодноразово adv 
+викликали	викликати verb:past:p:imperf 
+                      verb:past:p:perf 
+менеджера	менеджер noun:m:v_rod:anim 
+                     noun:m:v_zna:anim 
+,	- - 
+але	але conj:coord 
+        excl 
+вона	вона pron:pers:f:3:v_naz:anim
+була	булий adjp:actv:past:f:v_naz
+        бути verb:past:f:imperf 
+дуже	дуже adv
+        дужий adj:n:v_naz:compb 
+              adj:n:v_zna:compb 
+зайнята	зайнятий adjp:pasv:past:f:v_naz 
+...	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Зі	зі prep:rv_rod:rv_zna:rv_oru
+слів	слово noun:p:v_rod 
+офіціантки	офіціантка noun:f:v_rod:anim 
+                       noun:p:v_kly:anim 
+                       noun:p:v_naz:anim 
+,	- - 
+може	може insert
+        могти verb:unknown 
+підійти	підійти verb:inf:perf 
+директор	директор noun:m:v_naz:anim 
+,	- - 
+тільки	тільки adv 
+               conj:subord 
+               part 
+він	він pron:pers:m:3:v_naz:anim
+не	не part 
+розмовляє	розмовляти verb:pres:s:3:imperf 
+українською	український adj:f:v_oru 
+.	- 
+SENT_END 
+Disambiguator log: 
+DIS_PREP_OR_NOUN_DO:1 до[до/noun:n:v_dav:nv,до/noun:n:v_mis:nv,до/noun:n:v_naz:nv,до/noun:n:v_oru:nv,до/noun:n:v_rod:nv,до/noun:n:v_zna:nv,до/noun:p:v_dav:nv,до/noun:p:v_mis:nv,до/noun:p:v_naz:nv,до/noun:p:v_oru:nv,до/noun:p:v_rod:nv,до/noun:p:v_zna:nv,до/prep:rv_rod] -> до[до/prep:rv_rod]
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Ми	ми pron:pers:p:1:v_naz:anim
+повідомили	повідомити verb:past:p:perf 
+,	- - 
+що	що conj:subord 
+       pron:int:rel:n:v_naz 
+       pron:int:rel:n:v_zna 
+серед	серед prep:rv_rod 
+        середа noun:p:v_rod 
+нас	ми pron:pers:p:1:v_mis:anim
+       pron:pers:p:1:v_rod:anim
+       pron:pers:p:1:v_zna:anim
+є	бути verb:pres:p:1:imperf 
+         verb:pres:p:2:imperf 
+         verb:pres:p:3:imperf 
+         verb:pres:p::imperf 
+         verb:pres:s:1:imperf 
+         verb:pres:s:2:imperf 
+         verb:pres:s:3:imperf 
+         verb:pres:s::imperf 
+перекладач	перекладач noun:m:v_naz:anim 
+,	- - 
+але	але conj:coord 
+        excl 
+так	так adv:&pron:dem 
+        conj:coord:subord 
+        part 
+цей	цей adj:m:v_naz:&pron:dem 
+        adj:m:v_zna:&pron:dem 
+поважний	поважний adj:m:v_naz:compb 
+                     adj:m:v_zna:compb 
+пан	пан noun:m:v_naz:anim 
+до	до prep:rv_rod 
+нас	ми pron:pers:p:1:v_mis:anim
+       pron:pers:p:1:v_rod:anim
+       pron:pers:p:1:v_zna:anim
+і	і conj:coord 
+      part 
+не	не part 
+підійшов	підійти verb:past:m:perf 
+.	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Одне	один numr:n:v_naz 
+             numr:n:v_zna 
+замовлення	замовлення noun:n:v_naz 
+                       noun:n:v_rod 
+                       noun:n:v_zna 
+                       noun:p:v_naz 
+                       noun:p:v_zna 
+чекали	чекати verb:past:p:imperf 
+півтори	півтори numr:f:v_dav:nv 
+                numr:f:v_mis:nv 
+                numr:f:v_naz:nv 
+                numr:f:v_oru:nv 
+                numr:f:v_rod:nv 
+                numr:f:v_zna:nv 
+години	година noun:f:v_rod 
+               noun:p:v_naz 
+               noun:p:v_zna 
+,	- - 
+після	після adv 
+              prep:rv_rod 
+чого	що pron:int:rel:n:v_rod 
+нам	ми pron:pers:p:1:v_dav:anim 
+пояснили	пояснити verb:past:p:perf 
+,	- - 
+що	що conj:subord 
+       pron:int:rel:n:v_naz 
+       pron:int:rel:n:v_zna 
+його	його adj:m:nv:&pron:pos 
+             adj:n:nv:&pron:pos 
+        він pron:pers:m:3:v_rod:anim
+            pron:pers:m:3:v_zna:anim
+        воно pron:pers:n:3:v_rod 
+             pron:pers:n:3:v_zna 
+віддали	віддати verb:past:p:perf 
+за	за prep:rv_rod:rv_zna:rv_oru
+інший	інший adj:m:v_naz:&pron:def 
+              adj:m:v_zna:&pron:def 
+столик	столик noun:m:v_naz 
+               noun:m:v_zna 
+...	- 
+SENT_END 
+Disambiguator log: 
+DIS_PREP_OR_NOUN_DO:1 до[до/noun:n:v_dav:nv,до/noun:n:v_mis:nv,до/noun:n:v_naz:nv,до/noun:n:v_oru:nv,до/noun:n:v_rod:nv,до/noun:n:v_zna:nv,до/noun:p:v_dav:nv,до/noun:p:v_mis:nv,до/noun:p:v_naz:nv,до/noun:p:v_oru:nv,до/noun:p:v_rod:nv,до/noun:p:v_zna:nv,до/prep:rv_rod] -> до[до/prep:rv_rod]
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Але	але conj:coord 
+        excl 
+був	бути verb:past:m:imperf 
+і	і conj:coord 
+      part 
+приємний	приємний adj:m:v_naz:compb 
+                     adj:m:v_zna:compb 
+момент	момент noun:m:v_naz 
+               noun:m:v_zna 
+,	- - 
+до	до prep:rv_rod 
+нашого	наш adj:m:v_rod:&pron:pos 
+            adj:m:v_zna:&pron:pos
+            adj:n:v_rod:&pron:pos 
+рахунку	рахунок noun:m:v_dav 
+                noun:m:v_mis 
+                noun:m:v_rod 
+не	не part 
+включили	включити verb:past:p:perf:v-u 
+пиво	пиво noun:n:v_naz 
+             noun:n:v_zna 
+...	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Скоріш	скоріш adv 
+за	за prep:rv_rod:rv_zna:rv_oru
+все	все adv:v-u 
+        conj:coord:v-u 
+        part:v-u 
+    весь adj:n:v_naz:&pron:dem 
+         adj:n:v_zna:&pron:dem 
+це	цей adj:n:v_naz:&pron:dem 
+        adj:n:v_zna:&pron:dem 
+необачність	необачність noun:f:v_naz 
+                        noun:f:v_zna 
+офіціанта	офіціант noun:m:v_rod:anim 
+                     noun:m:v_zna:anim 
+чи	чи conj:coord:subord 
+       part 
+бармена	бармен noun:m:v_rod:anim 
+               noun:m:v_zna:anim 
+...	- 
+SENT_END 
+Disambiguator log: 
+MULTIWORD_CHUNKER: На[на/excl*,на/part*,на/prep:rv_zna:rv_mis*] -> На[на/excl*,на/part*,на/prep:rv_zna:rv_mis*,на мою думку/<insert>*]
+DIS_PREP_NA:1 На[на/excl*,на/part*,на/prep:rv_zna:rv_mis*,на мою думку/<insert>*] -> На[на/prep:rv_zna:rv_mis*]
+MULTIWORD_CHUNKER: думку[думка/noun:f:v_zna] -> думку[думка/noun:f:v_zna,на мою думку/</insert>]
+DIS_PREP_NA:1 на[на/excl,на/part,на/prep:rv_zna:rv_mis] -> на[на/prep:rv_zna:rv_mis]
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+На	на prep:rv_zna:rv_mis 
+мою	мій adj:f:v_zna:&pron:pos 
+думку	думка noun:f:v_zna 
+        на мою думку </insert>
+,	- - 
+Ель	ель noun:m:v_naz 
+        noun:m:v_zna 
+Греко	Греко noun:f:v_dav:nv:np:anim:lname
+              noun:f:v_mis:nv:np:anim:lname
+              noun:f:v_naz:nv:np:anim:lname
+              noun:f:v_oru:nv:np:anim:lname
+              noun:f:v_rod:nv:np:anim:lname
+              noun:f:v_zna:nv:np:anim:lname
+              noun:m:v_naz:anim:lname 
+ніяк	ніяк adv:&pron:neg 
+             predic 
+не	не part 
+тягне	тягнути verb:pres:s:3:imperf 
+        тягти verb:futr:s:3:imperf 
+на	на prep:rv_zna:rv_mis 
+почесну	почесний adj:f:v_zna:compb 
+назву	назва noun:f:v_zna 
+        назвати verb:futr:s:1:perf 
+ресторан	ресторан noun:m:v_naz 
+                     noun:m:v_zna 
+.	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Не	не part 
+хочу	хотіти verb:unknown 
+нікого	ніхто pron:neg:v_rod:anim 
+              pron:neg:v_zna:anim 
+образити	образити verb:inf:perf 
+,	- - 
+але	але conj:coord 
+        excl 
+мені	я pron:pers:s:1:v_dav:anim 
+          pron:pers:s:1:v_mis:anim 
+ніколи	ніколи adv:&pron:neg 
+в	в prep:rv_zna:rv_mis:rv_rod:v-u 
+житті	життя noun:n:v_mis 
+не	не part 
+хотілося	хотітися verb:unknown 
+б	б part 
+побувати	побувати verb:inf:perf 
+там	там adv:&pron:dem 
+        part 
+знову	знову adv 
+...	- 
+
+SENT_END 
+PARA_END 
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Так	так adv:&pron:dem 
+        conj:coord:subord 
+        part 
+настрій	настрій noun:m:v_naz 
+                noun:m:v_zna 
+зіпсувати	зіпсувати verb:inf:perf 
+клієнтам	клієнт noun:p:v_dav:anim 
+-	- - 
+просто	просто adv:compb 
+               part 
+               prep:rv_rod 
+талант	талант noun:m:v_naz 
+               noun:m:v_zna 
+!	- 
+SENT_END 
+Disambiguator log: 
+DIS_RARE_WORDS:1 Можна[можна/predic*,можний/adj:f:v_naz:rare*] -> Можна[можна/predic*]
+DIS_PREP_OR_NOUN_DO:1 до[до/noun:n:v_dav:nv,до/noun:n:v_mis:nv,до/noun:n:v_naz:nv,до/noun:n:v_oru:nv,до/noun:n:v_rod:nv,до/noun:n:v_zna:nv,до/noun:p:v_dav:nv,до/noun:p:v_mis:nv,до/noun:p:v_naz:nv,до/noun:p:v_oru:nv,до/noun:p:v_rod:nv,до/noun:p:v_zna:nv,до/prep:rv_rod] -> до[до/prep:rv_rod]
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Можна	можна predic 
+пропустити	пропустити verb:inf:perf 
+повз	повз adv 
+             prep:rv_zna
+        повзти verb:past:m:imperf 
+увагу	увага noun:f:v_zna 
+той	той adj:m:v_naz:&pron:dem 
+        adj:m:v_zna:&pron:dem 
+факт	факт noun:m:v_naz noun:m:v_zna 
+,	- - 
+що	що conj:subord 
+       pron:int:rel:n:v_naz 
+       pron:int:rel:n:v_zna 
+тебе	ти pron:pers:s:2:v_rod:anim
+           pron:pers:s:2:v_zna:anim
+підганяють	підганяти verb:pres:p:3:imperf 
+до	до prep:rv_rod 
+столика	столик noun:m:v_rod 
+               noun:m:v_zna 
+не	не part 
+давши	дати advp:perf 
+змоги	змога noun:f:v_rod 
+              noun:p:v_naz 
+              noun:p:v_zna 
+обрати	обрати verb:inf:perf 
+той	той adj:m:v_naz:&pron:dem 
+        adj:m:v_zna:&pron:dem 
+що	що conj:subord 
+       pron:int:rel:n:v_naz 
+       pron:int:rel:n:v_zna 
+сподобався	сподобатися verb:rev:past:m:perf 
+,	- - 
+гаразд	гаразд noun:m:v_naz noun:m:v_zna 
+.	- 
+SENT_END 
+Disambiguator log: 
+DIS_PREP_NA:1 на[на/excl,на/part,на/prep:rv_zna:rv_mis] -> на[на/prep:rv_zna:rv_mis]
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Персонал	персонал noun:m:v_naz 
+                     noun:m:v_zna 
+просто	просто adv:compb 
+               part 
+               prep:rv_rod 
+забув	забути verb:past:m:perf 
+про	про prep:rv_zna 
+те	той adj:n:v_naz:&pron:dem 
+        adj:n:v_zna:&pron:dem 
+,	- - 
+як	як adv:&pron:int:rel 
+       conj:subord 
+       noun:m:v_naz:anim 
+       part 
+власне	власне insert 
+               part 
+        власний adj:n:v_naz 
+                adj:n:v_zna 
+потрібно	потрібно adv:compb 
+поводитися	поводитися verb:rev:inf:imperf 
+з	з prep:rv_rod:rv_zna:rv_oru
+клієнтами	клієнт noun:p:v_oru:anim 
+-	- - 
+відверті	відвертий adj:p:v_naz:compb 
+                      adj:p:v_zna:compb 
+грубощі	грубощі noun:p:v_naz 
+                noun:p:v_zna 
+,	- - 
+кидання	кидання noun:n:v_naz 
+                noun:n:v_rod 
+                noun:n:v_zna 
+                noun:p:v_naz 
+                noun:p:v_zna 
+приборів	прибор noun:p:v_rod 
+на	на excl 
+       part 
+       prep:rv_zna:rv_mis 
+стіл	стіл noun:m:v_naz 
+             noun:m:v_zna 
+,	- - 
+однозначна	однозначний adj:f:v_naz 
+реакція	реакція noun:f:v_naz 
+на	на excl 
+       part 
+       prep:rv_zna:rv_mis 
+бюджетне	бюджетний adj:n:v_naz 
+                      adj:n:v_zna 
+замовлення	замовлення noun:n:v_naz 
+                       noun:n:v_rod 
+                       noun:n:v_zna 
+                       noun:p:v_naz 
+                       noun:p:v_zna 
+(	- - 
+виключається	виключатися verb:rev:pres:s:3:imperf 
+певно	певно adv:compb 
+повна	повний adj:f:v_naz:compb 
+можливість	можливість noun:f:v_naz
+            adj:m:v_zna:&pron:dem 
+            adj:n:v_rod:&pron:dem 
+того	той adj:m:v_rod:&pron:dem 			
+,	- - 
+що	що conj:subord 
+       pron:int:rel:n:v_naz 
+       pron:int:rel:n:v_zna 
+більше	багато adv:compr
+        великий adj:n:v_naz:compr 
+                adj:n:v_zna:compr 
+нічого	нічого adv 
+               predic
+        ніщо pron:neg:v_rod 
+             pron:neg:v_zna 
+не	не part 
+хочеться	хотітися verb:unknown 
+)	- - 
+,	- - 
+обговорення	обговорення noun:n:v_naz 
+                        noun:n:v_rod 
+                        noun:n:v_zna 
+                        noun:p:v_naz 
+                        noun:p:v_zna 
+клієнта	клієнт noun:m:v_rod:anim 
+               noun:m:v_zna:anim 
+персоналом	персонал noun:m:v_oru 
+на	на prep:rv_zna:rv_mis 
+очах	око noun:p:v_mis 
+самого	сам adj:m:v_rod:&pron:def 
+            adj:m:v_zna:&pron:def 
+            adj:n:v_rod:&pron:def 
+        самий adj:m:v_rod 
+              adj:m:v_zna 
+              adj:n:v_rod 
+клієнта	клієнт noun:m:v_rod:anim 
+               noun:m:v_zna:anim 
+.	- 
+SENT_END 
+Disambiguator log: 
+DIS_PREP_NA:1 на[на/excl,на/part,на/prep:rv_zna:rv_mis] -> на[на/prep:rv_zna:rv_mis]
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Явно	явно adv 
+не	не part 
+свіжо	свіжо adv 
+зроблена	зроблений adjp:pasv:past:f:v_naz 
+піца	піца noun:f:v_naz 
+вже	вже adv:v-u 
+із	із prep:rv_rod:rv_zna:rv_oru 
+засушеним	засушений adjp:pasv:past:m:v_oru 
+                      adjp:pasv:past:n:v_oru 
+                      adjp:pasv:past:p:v_dav 
+сиром	сир noun:m:v_oru 
+який	який adj:m:v_naz:&pron:int:rel:def
+             adj:m:v_zna:&pron:int:rel:def
+швидше	швидкий adj:n:v_naz:compr 
+                adj:n:v_zna:compr 
+        швидко adv:compr 
+схожий	схожий adj:m:v_naz 
+               adj:m:v_zna 
+на	на prep:rv_zna:rv_mis 
+пластмасу	пластмаса noun:f:v_zna 
+.	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Про	про prep:rv_zna 
+те	той adj:n:v_naz:&pron:dem 
+        adj:n:v_zna:&pron:dem 
+,	- - 
+що	що conj:subord 
+       pron:int:rel:n:v_naz 
+       pron:int:rel:n:v_zna 
+книга	книга noun:f:v_naz 
+відгуків	відгук noun:p:v_rod 
+і	і conj:coord 
+      part 
+побажань	побажання noun:p:v_rod 
+повинна	повинний adj:f:v_naz 
+зберігатися	зберігатися verb:rev:inf:imperf 
+у	у prep:rv_zna:rv_mis:rv_rod:v-u 
+куточку	куточок noun:m:v_dav 
+                noun:m:v_mis 
+споживача	споживач noun:m:v_rod:anim 
+                     noun:m:v_zna:anim 
+взагалі	взагалі adv:v-u 
+мовчу	мовчати verb:pres:s:1:imperf 
+.	- 
+SENT_END 
+Disambiguator log: 
+PRON_OR_CONJ_TA:1 та[та/conj:coord,та/part,той/adj:f:v_naz:&pron:dem] -> та[та/conj:coord,та/part]
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Ще	ще adv 
+       part 
+те	той adj:n:v_naz:&pron:dem 
+        adj:n:v_zna:&pron:dem 
+,	- - 
+коли	коли adv:&pron:int:rel 
+             conj:subord 
+             part
+        колоти verb:impr:s:2:imperf 
+        кіл  noun:p:v_naz 
+             noun:p:v_zna 
+ти	ти pron:pers:s:2:v_kly:anim 
+       pron:pers:s:2:v_naz:anim
+таки	таки part 
+отримав	отримати verb:past:m:perf 
+ту	той adj:f:v_zna:&pron:dem 
+книгу	книга noun:f:v_zna 
+,	- - 
+персоналу	персонал noun:m:v_dav 
+                     noun:m:v_mis 
+                     noun:m:v_rod 
+не	не part 
+віриться	віритися verb:rev:pres:s:3:imperf 
+що	що conj:subord 
+       pron:int:rel:n:v_naz 
+       pron:int:rel:n:v_zna 
+ти	ти pron:pers:s:2:v_kly:anim 
+       pron:pers:s:2:v_naz:anim
+таки	таки part 
+туди	туди adv:&pron:dem 
+щось	щось pron:ind:n:v_zna 
+та	та conj:coord 
+       part 
+й	й conj:coord 
+      part 
+напишеш	написати verb:futr:s:2:perf 
+.	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Більше	багато adv:compr
+        великий adj:n:v_naz:compr 
+                adj:n:v_zna:compr 
+туди	туди adv:&pron:dem 
+не	не part 
+піду	піти verb:futr:s:1:perf 
+і	і conj:coord 
+      part 
+флоєри	флоєра noun:f:v_rod 
+               noun:p:v_naz 
+               noun:p:v_zna 
+брати	брати verb:inf:imperf 
+        брат noun:p:v_kly:anim 
+             noun:p:v_naz:anim 
+навіть	навіть part 
+не	не part 
+буду	буда noun:f:v_zna 
+        бути verb:futr:s:1:imperf 
+.	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Не	не part 
+хотілося	хотітися verb:unknown 
+вірити	вірити verb:inf:imperf 
+відгукам	відгук noun:p:v_dav 
+знайомих	знайомий adj:p:v_mis 
+                     adj:p:v_rod 
+                     adj:p:v_zna 
+                     noun:p:v_mis:anim 
+                     noun:p:v_rod:anim 
+                     noun:p:v_zna:anim 
+що	що conj:subord 
+       pron:int:rel:n:v_naz 
+       pron:int:rel:n:v_zna 
+туди	туди adv:&pron:dem 
+варто	варто predic 
+не	не part 
+заходити	заходити verb:inf:imperf 
+                     verb:inf:perf 
+,	- - 
+але	але conj:coord 
+        excl 
+таки	таки part 
+це	цей adj:n:v_naz:&pron:dem
+        adj:n:v_zna:&pron:dem
+100%	100% number 
+правда	правда insert 
+               noun:f:v_naz 
+.	- 
+SENT_END 
+Disambiguator log: 
+DIS_PREP_OR_NOUN_DO:1 до[до/noun:n:v_dav:nv,до/noun:n:v_mis:nv,до/noun:n:v_naz:nv,до/noun:n:v_oru:nv,до/noun:n:v_rod:nv,до/noun:n:v_zna:nv,до/noun:p:v_dav:nv,до/noun:p:v_mis:nv,до/noun:p:v_naz:nv,до/noun:p:v_oru:nv,до/noun:p:v_rod:nv,до/noun:p:v_zna:nv,до/prep:rv_rod] -> до[до/prep:rv_rod]
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Гіршого	поганий adj:m:v_rod:compr 
+                adj:m:v_zna:compr 
+                adj:n:v_rod:compr 
+відношення	відношення noun:n:v_naz 
+                       noun:n:v_rod 
+                       noun:n:v_zna 
+                       noun:p:v_naz 
+                       noun:p:v_zna 
+до	до prep:rv_rod 
+себе	себе pron:refl:m:v_rod 
+             pron:refl:m:v_zna 
+             pron:refl:n:v_rod 
+             pron:refl:n:v_zna 
+не	не part 
+відчувала	відчувати verb:past:f:imperf 
+.	- 
+SENT_END 
+Disambiguator log: 
+MULTIWORD_CHUNKER: зверніть[звернути/verb:impr:p:2:perf] -> зверніть[звернути/verb:impr:p:2:perf,зверніть увагу/<insert>]
+MULTIWORD_CHUNKER: увагу[увага/noun:f:v_zna] -> увагу[увага/noun:f:v_zna,зверніть увагу/</insert>]
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+P	- 
+- 
+.	- 
+- 
+S	- 
+- 
+.	- 
+- 
+Шановні	шановний adj:p:v_naz 
+                 adj:p:v_zna 
+власники	власник noun:p:v_kly:anim 
+                    noun:p:v_naz:anim 
+зверніть	звернути verb:impr:p:2:perf 
+            зверніть увагу <insert> 
+увагу	увага noun:f:v_zna 
+        зверніть увагу </insert> 
+на	на excl 
+       part 
+       prep:rv_zna:rv_mis 
+те	той adj:n:v_naz:&pron:dem 
+        adj:n:v_zna:&pron:dem 
+,	- - 
+що	що conj:subord 
+       pron:int:rel:n:v_naz 
+       pron:int:rel:n:v_zna 
+меню	меню noun:n:v_dav:nv 
+             noun:n:v_mis:nv 
+             noun:n:v_naz:nv 
+             noun:n:v_oru:nv 
+             noun:n:v_rod:nv 
+             noun:n:v_zna:nv 
+             noun:p:v_dav:nv 
+             noun:p:v_mis:nv 
+             noun:p:v_naz:nv 
+             noun:p:v_oru:nv 
+             noun:p:v_rod:nv 
+             noun:p:v_zna:nv 
+яке	який adj:n:v_naz:&pron:int:rel:def
+         adj:n:v_zna:&pron:int:rel:def
+ви	ви pron:pers:p:2:v_kly:anim 
+       pron:pers:p:2:v_naz:anim 
+даєте	давати verb:pres:p:2:imperf 
+варто	варто predic 
+б	б part 
+замінити	замінити verb:inf:perf 
+,	- -
+а	а conj:coord 
+      excl 
+      part 
+персонал	персонал noun:m:v_naz 
+                     noun:m:v_zna 
+навчити	навчити verb:inf:perf 
+правильно	правильно adv:compb 
+поводитися	поводитися verb:rev:inf:imperf 
+!	- 
+- 
+!	- 
+- 
+!	- 
+SENT_END 
+- 
+PARA_END 
+- 
+SENT_START 
+якщо	якщо conj:subord 
+ви	ви pron:pers:p:2:v_kly:anim 
+       pron:pers:p:2:v_naz:anim 
+бажаєте	бажати verb:pres:p:2:imperf 
+побувати	побувати verb:inf:perf 
+у	у prep:rv_zna:rv_mis:rv_rod:v-u 
+найбільш	багато adv:super 
+брудних	брудний adj:p:v_mis:compb 
+                adj:p:v_rod:compb 
+                adj:p:v_zna:compb 
+закладах	заклад noun:p:v_mis 
+Львова	Львів noun:m:v_rod 
+-	- - 
+то	то conj:subord 
+ви	ви pron:pers:p:2:v_kly:anim 
+       pron:pers:p:2:v_naz:anim 
+потрапили	потрапити verb:past:p:perf 
+за	за prep:rv_rod:rv_zna:rv_oru 
+адресою	адреса noun:f:v_oru 
+.	- 
+SENT_END 
+Disambiguator log: 
+PRON_OR_CONJ_TA:1 та[та/conj:coord,та/part,той/adj:f:v_naz:&pron:dem] -> та[та/conj:coord,та/part]
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+"	- - 
+ель	ель noun:m:v_naz 
+        noun:m:v_zna 
+грек	грек noun:m:v_naz:anim 
+"	- - 
+та	та conj:coord 
+       part 
+"	- - 
+старс	- - 
+"	- - 
+просто	просто adv:compb 
+               part 
+               prep:rv_rod 
+вразять	вразити verb:futr:p:3:perf 
+вас	ви pron:pers:p:2:v_mis:anim 
+       pron:pers:p:2:v_rod:anim 
+       pron:pers:p:2:v_zna:anim 
+своїми	свій adj:p:v_oru:&pron:pos 
+стравами	страва noun:p:v_oru 
+з	з prep:rv_rod:rv_zna:rv_oru 
+сюрпризом	сюрприз noun:m:v_oru 
+,	- - 
+який	який adj:m:v_naz:&pron:int:rel:def
+             adj:m:v_zna:&pron:int:rel:def
+завбачливо	завбачливо adv 
+додають	додавати verb:pres:p:3:imperf 
+тутешні	тутешній adj:p:v_naz 
+                 adj:p:v_zna 
+кухарі	кухар noun:m:v_mis:anim 
+              noun:p:v_kly:anim 
+              noun:p:v_naz:anim 
+.	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+волосся	волосся noun:n:v_naz 
+                noun:n:v_rod 
+                noun:n:v_zna 
+чи	чи conj:coord:subord 
+       part 
+таргани	тарган noun:p:v_naz:anim 
+               noun:p:v_zna:anim 
+-	- - 
+залишається	залишатися verb:rev:pres:s:3:imperf 
+лише	лише conj:subord 
+             part 
+гадати	гадати verb:inf:imperf 
+,	- - 
+що	що conj:subord 
+       pron:int:rel:n:v_naz 
+       pron:int:rel:n:v_zna 
+отримаєте	отримати verb:futr:p:2:perf 
+ви	ви pron:pers:p:2:v_kly:anim 
+       pron:pers:p:2:v_naz:anim
+.	- 
+SENT_END 
+Disambiguator log: 
+DIS_PREP_NA:1 на[на/excl,на/part,на/prep:rv_zna:rv_mis] -> на[на/prep:rv_zna:rv_mis]
+DIS_PREP_NA:1 на[на/excl,на/part,на/prep:rv_zna:rv_mis] -> на[на/prep:rv_zna:rv_mis]
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+персонал	персонал noun:m:v_naz 
+                     noun:m:v_zna 
+там	там adv:&pron:dem part 
+на	на prep:rv_zna:rv_mis 
+високому	високий adj:m:v_dav:compb 
+                    adj:m:v_mis:compb 
+                    adj:n:v_dav:compb 
+                    adj:n:v_mis:compb 
+рівні	рівний adj:p:v_naz:compb 
+               adj:p:v_zna:compb 
+        рівня noun:f:v_dav 
+              noun:f:v_dav:anim 
+              noun:f:v_mis 
+              noun:f:v_mis:anim 
+              noun:f:v_rod 
+              noun:f:v_rod:anim 
+        рівень noun:m:v_mis 
+               noun:p:v_naz 
+               noun:p:v_zna 
+-	- - 
+всі	весь adj:p:v_naz:&pron:dem 
+         adj:p:v_zna:&pron:dem 
+глибоко	глибоко adv:compb 
+начхати	начхати verb:inf:perf 
+на	на prep:rv_zna:rv_mis 
+вас	ви pron:pers:p:2:v_mis:anim 
+       pron:pers:p:2:v_rod:anim 
+       pron:pers:p:2:v_zna:anim 
+,	- - 
+ви	ви pron:pers:p:2:v_kly:anim 
+       pron:pers:p:2:v_naz:anim 
+повністю	повністю adv 
+в	в prep:rv_zna:rv_mis:rv_rod:v-u 
+їхньому	їхній adj:m:v_dav:&pron:pos 
+              adj:m:v_mis:&pron:pos 
+              adj:n:v_dav:&pron:pos 
+              adj:n:v_mis:&pron:pos 
+розпорядженні	розпорядження noun:n:v_mis 
+.	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+отож	отож conj:subord 
+             part 
+,	- - 
+якщо	якщо conj:subord 
+хочете	хотіти verb:unknown 
+швиденько	швиденько adv 
+отримати	отримати verb:inf:perf 
+страву	страва noun:f:v_zna 
+,	- - 
+то	то conj:subord 
+зробіть	зробити verb:impr:p:2:perf 
+миле	милий adj:n:v_naz:compb 
+              adj:n:v_zna:compb 
+личко	личко noun:n:v_naz 
+              noun:n:v_zna 
+і	і conj:coord 
+      part 
+нагадайте	нагадати verb:impr:p:2:perf 
+в	в prep:rv_zna:rv_mis:rv_rod:v-u 
+сотий	сотий adj:m:v_naz 
+              adj:m:v_zna 
+раз	раз adv 
+        conj:subord 
+        noun:m:v_naz 
+        noun:m:v_zna 
+офіціанту	офіціант noun:m:v_dav:anim 
+                     noun:m:v_mis:anim 
+про	про prep:rv_zna 
+замовлення	замовлення noun:n:v_naz 
+                       noun:n:v_rod 
+                       noun:n:v_zna 
+                       noun:p:v_naz 
+                       noun:p:v_zna 
+.	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+ви	ви pron:pers:p:2:v_kly:anim 
+       pron:pers:p:2:v_naz:anim
+певне	певний adj:n:v_naz:compb 
+               adj:n:v_zna:compb 
+задумуєтесь	задумуватися verb:rev:pres:p:2:imperf 
+,	- 
+- 
+чому	чому adv:&pron:int:rel
+        що pron:int:rel:n:v_dav 
+           pron:int:rel:n:v_mis 
+так	так adv:&pron:dem 
+        conj:coord:subord 
+        part 
+є	бути verb:pres:p:1:imperf 
+         verb:pres:p:2:imperf 
+         verb:pres:p:3:imperf 
+         verb:pres:p::imperf 
+         verb:pres:s:1:imperf 
+         verb:pres:s:2:imperf 
+         verb:pres:s:3:imperf 
+         verb:pres:s::imperf 
+?	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+хмм	- - 
+,	- - 
+там	там adv:&pron:dem 
+        part 
+ж	ж conj:coord 
+      part 
+власник	власник noun:m:v_naz:anim 
+наш	наш adj:m:v_naz:&pron:pos
+        adj:m:v_zna:&pron:pos
+вельмишановний	вельмишановний adj:m:v_naz 
+                               adj:m:v_zna 
+ставрос	- 
+- 
+.	- 
+SENT_END 
+Disambiguator log: 
+PRON_OR_CONJ_TA:1 та[та/conj:coord,та/part,той/adj:f:v_naz:&pron:dem] -> та[та/conj:coord,та/part]
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+навіть	навіть part 
+не	не part 
+знаю	знати verb:pres:s:1:imperf 
+,	- - 
+як	як adv:&pron:int:rel 
+       conj:subord 
+       noun:m:v_naz:anim 
+       part 
+без	без prep:rv_rod 
+його	його adj:m:nv:&pron:pos 
+             adj:n:nv:&pron:pos 
+        він pron:pers:m:3:v_rod:anim
+            pron:pers:m:3:v_zna:anim
+        воно pron:pers:n:3:v_rod 
+             pron:pers:n:3:v_zna 
+безпричинних	безпричинний adj:p:v_mis 
+                             adj:p:v_rod 
+                             adj:p:v_zna 
+криків	крик noun:p:v_rod 
+на	на excl 
+       part 
+       prep:rv_zna:rv_mis 
+персонал	персонал noun:m:v_naz 
+                     noun:m:v_zna 
+та	та conj:coord 
+       part 
+невиплачуванні	невиплачування noun:n:v_mis 
+їм	їсти verb:pres:s:1:imperf 
+    вони pron:pers:p:3:v_dav:anim 
+зарплати	зарплата noun:f:v_rod 
+                     noun:p:v_naz 
+                     noun:p:v_zna 
+можуть	могти verb:unknown 
+існувати	існувати verb:inf:imperf 
+ці	цей adj:p:v_mis:&pron:dem 
+        adj:p:v_naz:&pron:dem 
+        adj:p:v_zna:&pron:dem 
+заклади	заклад noun:p:v_naz 
+               noun:p:v_zna 
+        закласти verb:impr:s:2:perf 
+.	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+висновок	висновок noun:m:v_naz 
+                     noun:m:v_zna 
+очевидний	очевидний adj:m:v_naz:compb 
+                      adj:m:v_zna:compb 
+:	- - 
+let	- - 
+ставрос	- - 
+die	- 
+
+SENT_END 
+PARA_END
+- 
+SENT_START 
+Ну	ну excl 
+       part 
+дуже	дуже adv 
+        дужий adj:n:v_naz:compb 
+              adj:n:v_zna:compb 
+затишне	затишний adj:n:v_naz:compb 
+                 adj:n:v_zna:compb 
+і	і conj:coord 
+      part 
+чудове	чудовий adj:n:v_naz:compb 
+                adj:n:v_zna:compb 
+місце	місце noun:n:v_naz 
+              noun:n:v_zna 
+,	- - 
+хоча	хоча conj:subord 
+             part 
+і	і conj:coord 
+      part 
+невеличке	невеличкий adj:n:v_naz 
+                       adj:n:v_zna 
+за	за prep:rv_rod:rv_zna:rv_oru 
+розміром	розмір noun:m:v_oru 
+)	- - 
+Потрапили	потрапити verb:past:p:perf 
+туди	туди adv:&pron:dem 
+завдяки	завдяки prep:rv_dav 
+осіннім	осінній adj:m:v_mis 
+                adj:m:v_oru 
+                adj:n:v_mis 
+                adj:n:v_oru 
+                adj:p:v_dav 
+акційним	акційний adj:m:v_oru 
+                     adj:n:v_oru 
+                     adj:p:v_dav 
+пропозиціям	пропозиція noun:p:v_dav 
+піци	піца noun:f:v_rod 
+             noun:p:v_naz 
+             noun:p:v_zna 
+за	за prep:rv_rod:rv_zna:rv_oru 
+25	25 number 
+грн	грн noun:f:v_dav:nv:abbr 
+        noun:f:v_mis:nv:abbr 
+        noun:f:v_naz:nv:abbr 
+        noun:f:v_oru:nv:abbr 
+        noun:f:v_rod:nv:abbr 
+        noun:f:v_zna:nv:abbr 
+        noun:p:v_dav:nv:abbr 
+        noun:p:v_mis:nv:abbr 
+        noun:p:v_naz:nv:abbr 
+        noun:p:v_oru:nv:abbr 
+        noun:p:v_rod:nv:abbr 
+        noun:p:v_zna:nv:abbr 
+)	- - 
+)	- - 
+)	- - 
+думали	думати verb:past:p:imperf 
+—	- - 
+звичайний	звичайний adj:m:v_naz:compb 
+                      adj:m:v_zna:compb 
+фастфуд	фастфуд noun:m:v_naz 
+                noun:m:v_zna 
+,	- - 
+але	але conj:coord 
+        excl 
+потрапивши	потрапити advp:perf 
+всередину	всередину adv:v-u 
+були	бути verb:past:p:imperf 
+приємно	приємно adv:compb 
+здивовані	здивований adjp:pasv:past:p:v_naz 
+                       adjp:pasv:past:p:v_zna 
+)	- - 
+при	при prep:rv_mis 
+    перти verb:impr:s:2:imperf 
+вході	вхід noun:m:v_mis 
+зустрічає	зустрічати verb:pres:s:3:imperf 
+привітна	привітний adj:f:v_naz:compb 
+дівчина-адміністратор	дівчина-адміністратор noun:f:v_naz:anim 
+,	- - 
+що	що conj:subord 
+       pron:int:rel:n:v_naz 
+       pron:int:rel:n:v_zna 
+запитує	запитувати verb:pres:s:3:imperf 
+про	про prep:rv_zna 
+кількість	кількість noun:f:v_naz 
+                      noun:f:v_zna 
+людей	люди noun:p:v_rod:anim 
+             noun:p:v_zna:anim 
+у	у prep:rv_zna:rv_mis:rv_rod:v-u 
+вашій	ваш adj:f:v_dav:&pron:pos 
+            adj:f:v_mis:&pron:pos 
+компанії	компанія noun:f:v_dav 
+                     noun:f:v_mis 
+                     noun:f:v_rod 
+                     noun:p:v_naz 
+                     noun:p:v_zna 
+,	- - 
+та	та conj:coord 
+       part 
+рекомендує	рекомендувати verb:futr:s:3:perf 
+                          verb:pres:s:3:imperf 
+,	- - 
+у	у prep:rv_zna:rv_mis:rv_rod:v-u 
+якій	який adj:f:v_dav:&pron:int:rel:def 
+             adj:f:v_mis:&pron:int:rel:def 
+частині	частина noun:f:v_dav 
+                noun:f:v_mis 
+кафе	кафе noun:n:v_dav:nv 
+             noun:n:v_mis:nv 
+             noun:n:v_naz:nv 
+             noun:n:v_oru:nv 
+             noun:n:v_rod:nv 
+             noun:n:v_zna:nv 
+             noun:p:v_dav:nv 
+             noun:p:v_mis:nv 
+             noun:p:v_naz:nv 
+             noun:p:v_oru:nv 
+             noun:p:v_rod:nv 
+             noun:p:v_zna:nv 
+вам	ви pron:pers:p:2:v_dav:anim 
+би	би part 
+було	бути verb:past:n:imperf 
+зручніше	зручний adj:n:v_naz:compr 
+                    adj:n:v_zna:compr 
+            зручно adv:compr 
+розміститись	розміститися verb:rev:inf:perf 
+)	- - 
+Інтер'єр	інтер'єр noun:m:v_naz 
+                     noun:m:v_zna 
+приємний	приємний adj:m:v_naz:compb 
+                     adj:m:v_zna:compb 
+,	- - 
+хоча	хоча conj:subord 
+             part 
+і	і conj:coord 
+      part 
+нічого	нічого adv 
+               predic 
+        ніщо pron:neg:v_rod 
+             pron:neg:v_zna 
+надто	надто adv 
+особливого	особливий adj:m:v_rod 
+                      adj:m:v_zna 
+                      adj:n:v_rod 
+,	- - 
+яскраві	яскравий adj:p:v_naz:compb 
+                 adj:p:v_zna:compb 
+крісла	крісло noun:n:v_rod 
+               noun:p:v_naz 
+               noun:p:v_zna 
+,	- - 
+дивани	диван noun:p:v_naz 
+              noun:p:v_zna 
+з	з prep:rv_rod:rv_zna:rv_oru 
+високими	високий adj:p:v_oru:compb 
+спинками	спинка noun:p:v_oru 
+,	- - 
+що	що conj:subord 
+       pron:int:rel:n:v_naz 
+       pron:int:rel:n:v_zna 
+створюють	створювати verb:pres:p:3:imperf 
+ілюзію	ілюзія noun:f:v_zna 
+відокремлення	відокремлення noun:n:v_naz 
+                              noun:n:v_rod 
+                              noun:n:v_zna 
+                              noun:p:v_naz 
+                              noun:p:v_zna 
+столиків	столик noun:p:v_rod 
+один	один numr:m:v_naz 
+             numr:n:v_zna 
+від	від prep:rv_rod 
+одного	один numr:m:v_rod 
+             numr:m:v_zna 
+             numr:n:v_rod 
+,	- - 
+по	по prep:rv_mis:rv_zna 
+стінах	стіна noun:p:v_dav 
+—	- - 
+зображення	зображення noun:n:v_naz 
+                       noun:n:v_rod 
+                       noun:n:v_zna 
+                       noun:p:v_naz 
+                       noun:p:v_zna 
+на	на prep:rv_zna:rv_mis 
+грецьку	грецький adj:f:v_zna 
+тематику	тематика noun:f:v_zna 
+.	- 
+SENT_END 
+Disambiguator log: 
+PRON_OR_CONJ_TA:1 та[та/conj:coord,та/part,той/adj:f:v_naz:&pron:dem] -> та[та/conj:coord,та/part]
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Обслуговування	обслуговування noun:n:v_naz 
+                               noun:n:v_rod 
+                               noun:n:v_zna 
+                               noun:p:v_naz 
+                               noun:p:v_zna 
+сподобалось	сподобатися verb:rev:past:n:perf 
+,	- - 
+усі	увесь adj:p:v_naz:&pron:dem
+          adj:p:v_zna:&pron:dem
+милі	милий adj:p:v_naz:compb 
+              adj:p:v_zna:compb 
+              noun:p:v_kly:anim 
+              noun:p:v_naz:anim 
+        мило noun:n:v_mis 
+        миля noun:f:v_dav 
+             noun:f:v_mis 
+             noun:f:v_rod 
+             noun:p:v_naz 
+             noun:p:v_zna 
+та	та conj:coord 
+       part 
+привітні	привітний adj:p:v_naz:compb 
+                      adj:p:v_zna:compb 
+.	- 
+SENT_END 
+Disambiguator log: 
+MULTIWORD_CHUNKER: на[на/excl,на/part,на/prep:rv_zna:rv_mis] -> на[на/excl,на/part,на/prep:rv_zna:rv_mis,на жаль/<insert>]
+MULTIWORD_CHUNKER: жаль[жаль/noun:m:v_naz,жаль/noun:m:v_zna] -> жаль[жаль/noun:m:v_naz,жаль/noun:m:v_zna,на жаль/</insert>]
+PRON_OR_CONJ_TA:1 та[та/conj:coord,та/part,той/adj:f:v_naz:&pron:dem] -> та[та/conj:coord,та/part]
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+піца	піца noun:f:v_naz 
+також	також adv 
+              conj:coord 
+сподобалась	сподобатися verb:rev:past:f:perf 
+,	- - 
+а	а conj:coord 
+      excl 
+      part 
+от	от part 
+стосовно	стосовно adv 
+страв	страва noun:p:v_rod 
+грецької	грецький adj:f:v_rod 
+кухні	кухня noun:f:v_dav 
+              noun:f:v_mis 
+              noun:f:v_rod 
+              noun:p:v_naz 
+              noun:p:v_zna 
+,	- - 
+на	на excl 
+       part 
+       prep:rv_zna:rv_mis 
+    на жаль <insert> 
+жаль	жаль noun:m:v_naz 
+             noun:m:v_zna 
+        на жаль </insert> 
+,	- - 
+нічого	нічого adv 
+               predic 
+        ніщо pron:neg:v_rod 
+             pron:neg:v_zna 
+сказати	сказати verb:inf:perf 
+не	не part 
+можу	могти verb:unknown 
+,	- - 
+не	не part 
+куштували	куштувати verb:past:p:imperf 
+Але	але conj:coord 
+        excl 
+якщо	якщо conj:subord 
+ви	ви pron:pers:p:2:v_kly:anim 
+       pron:pers:p:2:v_naz:anim
+гуляєте	гуляти verb:pres:p:2:imperf 
+центром	центр noun:m:v_oru 
+Львова	Львів noun:m:v_rod 
+молодіжною	молодіжний adj:f:v_oru 
+компанією	компанія noun:f:v_oru 
+або	або conj:coord 
+вдвох	вдвох adv 
+,	- - 
+хочете	хотіти verb:unknown 
+відпочити	відпочити verb:inf:perf 
+                      verb:inf:unknown 
+від	від prep:rv_rod 
+гамору	гамір noun:m:v_dav 
+              noun:m:v_rod 
+вулиці	вулиця noun:f:v_dav 
+               noun:f:v_mis 
+               noun:f:v_rod 
+               noun:p:v_naz 
+               noun:p:v_zna 
+та	та conj:coord 
+       part 
+недорого	недорого adv 
+перекусити	перекусити verb:inf:perf 
+—	- - 
+то	то conj:subord 
+вам	ви pron:pers:p:2:v_dav:anim
+точно	точно adv 
+сюди	сюди adv:&pron:dem 
+)	- 
+
+SENT_END 
+PARA_END  
+- 
+SENT_START 
+Жахливий	жахливий adj:m:v_naz:compb 
+                     adj:m:v_zna:compb 
+заклад	заклад noun:m:v_naz 
+               noun:m:v_zna 
+з	з prep:rv_rod:rv_zna:rv_oru
+жахливими	жахливий adj:p:v_oru:compb 
+працівниками	працівник noun:p:v_oru:anim 
+!	- 
+SENT_END 
+Disambiguator log: 
+DIS_PREP_OR_NOUN_DO:1 до[до/noun:n:v_dav:nv,до/noun:n:v_mis:nv,до/noun:n:v_naz:nv,до/noun:n:v_oru:nv,до/noun:n:v_rod:nv,до/noun:n:v_zna:nv,до/noun:p:v_dav:nv,до/noun:p:v_mis:nv,до/noun:p:v_naz:nv,до/noun:p:v_oru:nv,до/noun:p:v_rod:nv,до/noun:p:v_zna:nv,до/prep:rv_rod] -> до[до/prep:rv_rod]
+DIS_PREP_OR_NOUN_DO:1 до[до/noun:n:v_dav:nv,до/noun:n:v_mis:nv,до/noun:n:v_naz:nv,до/noun:n:v_oru:nv,до/noun:n:v_rod:nv,до/noun:n:v_zna:nv,до/noun:p:v_dav:nv,до/noun:p:v_mis:nv,до/noun:p:v_naz:nv,до/noun:p:v_oru:nv,до/noun:p:v_rod:nv,до/noun:p:v_zna:nv,до/prep:rv_rod] -> до[до/prep:rv_rod]
+DIS_INSERTS:1 може[може/insert,могти/verb:unknown] -> може[могти/verb:unknown]
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Заходив	заходити verb:past:m:imperf 
+                 verb:past:m:perf 
+15.11.13	- - 
+при	при prep:rv_mis 
+    перти verb:impr:s:2:imperf 
+вході	вхід noun:m:v_mis 
+зустрів	зустріти verb:past:m:perf 
+нас	ми pron:pers:p:1:v_mis:anim 
+           pron:pers:p:1:v_rod:anim 
+           pron:pers:p:1:v_zna:anim 
+офіціант	офіціант noun:m:v_naz:anim 
+,	- - 
+не	не part 
+спитавши	спитати advp:perf 
+скільки	скільки numr:p:v_naz:&pron:ind 
+                numr:p:v_zna:&pron:ind 
+нас	ми pron:pers:p:1:v_mis:anim 
+       pron:pers:p:1:v_rod:anim 
+       pron:pers:p:1:v_zna:anim 
+буде	бути verb:futr:s:3:imperf 
+-	- - 
+провів	провести verb:past:m:perf 
+до	до prep:rv_rod 
+стола	стіл noun:m:v_rod 
+             noun:m:v_zna 
+на	на excl 
+       part 
+       prep:rv_zna:rv_mis 
+двох	двоє numr:p:v_mis 
+             numr:p:v_rod 
+             numr:p:v_zna 
+        два numr:f:v_mis 
+            numr:f:v_rod 
+            numr:f:v_zna 
+            numr:m:v_mis 
+            numr:m:v_rod 
+            numr:m:v_zna 
+            numr:n:v_mis 
+            numr:n:v_rod 
+            numr:n:v_zna 
+і	і conj:coord 
+      part 
+в	в prep:rv_zna:rv_mis:rv_rod:v-u 
+наказовому	наказовий adj:m:v_dav 
+                      adj:m:v_mis 
+                      adj:n:v_dav 
+                      adj:n:v_mis 
+тоні	тон noun:m:v_mis 
+        тоня noun:f:v_dav 
+             noun:f:v_mis 
+             noun:f:v_rod 
+наказав	наказати verb:past:m:perf 
+сідати	сідати verb:inf:imperf 
+тільки	тільки adv 
+               conj:subord 
+               part 
+за	за prep:rv_rod:rv_zna:rv_oru 
+цей	цей adj:m:v_naz:&pron:dem 
+        adj:m:v_zna:&pron:dem 
+стіл	стіл noun:m:v_naz 
+             noun:m:v_zna 
+(	- - 
+де	де adv:&pron:int:rel 
+       part 
+ти	ти pron:pers:s:2:v_kly:anim 
+       pron:pers:s:2:v_naz:anim 
+сідаєш	сідати verb:pres:s:2:imperf 
+на	на excl 
+       part 
+       prep:rv_zna:rv_mis 
+диван	диван noun:m:v_naz 
+              noun:m:v_zna 
+,	- - 
+зліва	зліва adv 
+від	від prep:rv_rod 
+тебе	ти pron:pers:s:2:v_rod:anim 
+           pron:pers:s:2:v_zna:anim 
+в	в prep:rv_zna:rv_mis:rv_rod:v-u 
+притул	притул noun:m:v_naz 
+               noun:m:v_zna 
+до	до prep:rv_rod 
+стола	стіл noun:m:v_rod 
+             noun:m:v_zna 
+чиясь	чийсь adj:f:v_naz:&pron:ind 
+лиса	лис noun:m:v_rod:anim 
+            noun:m:v_zna:anim 
+        лисий adj:f:v_naz 
+потилиця	потилиця noun:f:v_naz 
+,	- - 
+а	а conj:coord 
+      excl 
+      part 
+твоя	твій adj:f:v_naz:&pron:pos 
+подруга	подруга noun:f:v_naz:anim 
+сідає	сідати verb:pres:s:3:imperf 
+справа	справа noun:f:v_naz 
+від	від prep:rv_rod 
+тебе	ти pron:pers:s:2:v_rod:anim 
+           pron:pers:s:2:v_zna:anim 
+оскільки	оскільки conj:subord 
+навпроти	навпроти adv 
+                     prep:rv_rod 
+вона	вона pron:pers:f:3:v_naz:anim 
+не	не part 
+може	могти verb:unknown 
+сісти	сідати verb:inf:perf 
+бо	бо conj:subord 
+       part 
+там	там adv:&pron:dem 
+        part 
+прохід	прохід noun:m:v_naz 
+               noun:m:v_zna 
+)	- - 
+.	- 
+SENT_END 
+Disambiguator log: 
+DIS_PREP_NA:1 на[на/excl,на/part,на/prep:rv_zna:rv_mis] -> на[на/prep:rv_zna:rv_mis]
+DIS_PREP_NA:1 на[на/excl,на/part,на/prep:rv_zna:rv_mis] -> на[на/prep:rv_zna:rv_mis]
+DIS_INSERTS:1 значить[значить/insert,значити/verb:pres:s:3:imperf] -> значить[значити/verb:pres:s:3:imperf]
+DIS_PREP_NA:1 на[на/excl,на/part,на/prep:rv_zna:rv_mis] -> на[на/prep:rv_zna:rv_mis]
+DIS_PREP_OR_NOUN_DO:1 до[до/noun:n:v_dav:nv,до/noun:n:v_mis:nv,до/noun:n:v_naz:nv,до/noun:n:v_oru:nv,до/noun:n:v_rod:nv,до/noun:n:v_zna:nv,до/noun:p:v_dav:nv,до/noun:p:v_mis:nv,до/noun:p:v_naz:nv,до/noun:p:v_oru:nv,до/noun:p:v_rod:nv,до/noun:p:v_zna:nv,до/prep:rv_rod] -> до[до/prep:rv_rod]
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Я	я pron:pers:s:1:v_naz:anim 
+захотів	захотіти verb:unknown 
+сісти	сідати verb:inf:perf 
+за	за prep:rv_rod:rv_zna:rv_oru 
+інший	інший adj:m:v_naz:&pron:def 
+              adj:m:v_zna:&pron:def 
+столик	столик noun:m:v_naz 
+               noun:m:v_zna 
+но	но excl 
+       part 
+мені	я pron:pers:s:1:v_dav:anim 
+          pron:pers:s:1:v_mis:anim 
+знову	знову adv 
+повторили	повторити verb:past:p:perf 
+-	- - 
+тільки	тільки adv 
+               conj:subord 
+               part 
+цей	цей adj:m:v_naz:&pron:dem 
+        adj:m:v_zna:&pron:dem 
+(	- - 
+хотілось	хотітися verb:unknown 
+дати	дати verb:inf:perf 
+        дата noun:f:v_rod 
+             noun:p:v_naz 
+             noun:p:v_zna 
+в	в prep:rv_zna:rv_mis:rv_rod:v-u 
+пику	пика noun:f:v_zna 
+офіціанту	офіціант noun:m:v_dav:anim 
+                     noun:m:v_mis:anim 
+,	- - 
+но	но excl 
+       part 
+коли	коли adv:&pron:int:rel 
+             conj:subord 
+             part 
+        колоти verb:impr:s:2:imperf 
+        кіл noun:p:v_naz 
+            noun:p:v_zna 
+ти	ти pron:pers:s:2:v_kly:anim 
+       pron:pers:s:2:v_naz:anim 
+з	з prep:rv_rod:rv_zna:rv_oru 
+дівчиною	дівчина noun:f:v_oru:anim 
+,	- - 
+це	цей adj:n:v_naz:&pron:dem 
+        adj:n:v_zna:&pron:dem 
+якось	якось adv:&pron:ind 
+не	не part 
+личить	личити verb:pres:s:3:imperf 
+)	- - 
+,	- - 
+суперечка	суперечка noun:f:v_naz 
+продовжувалась	продовжуватися verb:rev:past:f:imperf 
+на	на prep:rv_zna:rv_mis 
+високих	високий adj:p:v_mis:compb 
+                adj:p:v_rod:compb 
+                adj:p:v_zna:compb 
+тонах	тон noun:p:v_mis 
+,	- - 
+при	при prep:rv_mis 
+    перти verb:impr:s:2:imperf 
+цьому	цей adj:m:v_dav:&pron:dem 
+            adj:m:v_mis:&pron:dem 
+            adj:n:v_dav:&pron:dem 
+            adj:n:v_mis:&pron:dem 
+на	на prep:rv_zna:rv_mis 
+очах	око noun:p:v_mis 
+у	у prep:rv_zna:rv_mis:rv_rod:v-u 
+власника	власник noun:m:v_rod:anim 
+                    noun:m:v_zna:anim 
+закладу	заклад noun:m:v_dav 
+               noun:m:v_mis 
+               noun:m:v_rod 
+        закласти verb:futr:s:1:perf 
+,	- - 
+який	який adj:m:v_naz:&pron:int:rel:def
+             adj:m:v_zna:&pron:int:rel:def
+ніяк	ніяк adv:&pron:neg 
+             predic 
+не	не part 
+відреагував	відреагувати verb:past:m:perf 
+-	- - 
+значить	значити verb:pres:s:3:imperf 
+йому	він pron:pers:m:3:v_dav:anim 
+        воно pron:pers:n:3:v_dav 
+все	все adv:v-u 
+        conj:coord:v-u 
+        part:v-u 
+    весь adj:n:v_naz:&pron:dem 
+         adj:n:v_zna:&pron:dem 
+одно	один numr:n:v_naz 
+на	на prep:rv_zna:rv_mis 
+відвідувачів	відвідувач noun:p:v_rod:anim 
+                           noun:p:v_zna:anim 
+,	- - 
+і	і conj:coord 
+      part 
+зі	зі prep:rv_rod:rv_zna:rv_oru 
+всієї	весь adj:f:v_rod:&pron:dem 
+поваги	повага noun:f:v_rod 
+               noun:p:v_naz 
+               noun:p:v_zna 
+до	до prep:rv_rod 
+себе	себе pron:refl:m:v_rod 
+             pron:refl:m:v_zna 
+             pron:refl:n:v_rod 
+             pron:refl:n:v_zna 
+-	- - 
+просто	просто adv:compb 
+               part 
+               prep:rv_rod 
+розвернувся	розвернутися verb:rev:past:m:perf 
+і	і conj:coord 
+      part 
+пішов	піти verb:past:m:perf 
+.	- - 
+!	- - 
+!	- - 
+!	- 
+SENT_END 
+Disambiguator log: 
+DIS_PREP_OR_NOUN_DO:1 до[до/noun:n:v_dav:nv,до/noun:n:v_mis:nv,до/noun:n:v_naz:nv,до/noun:n:v_oru:nv,до/noun:n:v_rod:nv,до/noun:n:v_zna:nv,до/noun:p:v_dav:nv,до/noun:p:v_mis:nv,до/noun:p:v_naz:nv,до/noun:p:v_oru:nv,до/noun:p:v_rod:nv,до/noun:p:v_zna:nv,до/prep:rv_rod] -> до[до/prep:rv_rod]
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Тепер	тепер adv:&pron:dem 
+пообіцяв	пообіцяти verb:past:m:perf 
+собі	себе pron:refl:m:v_dav 
+             pron:refl:m:v_mis 
+             pron:refl:n:v_dav 
+             pron:refl:n:v_mis 
+і	і conj:coord 
+      part 
+друзям	друзі noun:p:v_dav:anim 
+буду	буда noun:f:v_zna 
+        бути verb:futr:s:1:imperf 
+говорити	говорити verb:inf:imperf 
+-	- - 
+наскільки	наскільки adv 
+б	б part 
+не	не part 
+був	бути verb:past:m:imperf 
+обмежений	обмежений adjp:pasv:past:m:v_naz 
+                      adjp:pasv:past:m:v_zna 
+бюджет	бюджет noun:m:v_naz 
+               noun:m:v_zna 
+,	- - 
+чи	чи conj:coord:subord 
+       part 
+якась	якийсь adj:f:v_naz:&pron:ind 
+інша	інший adj:f:v_naz:&pron:def 
+причина	причина noun:f:v_naz 
+про	про prep:rv_zna 
+які	який adj:p:v_naz:&pron:int:rel:def 
+         adj:p:v_zna:&pron:int:rel:def 
+пишуть	писати verb:pres:p:3:imperf 
+нижче	нижче adv:compr:compr 
+              prep:rv_zna 
+        низький adj:n:v_naz:compr 
+                adj:n:v_zna:compr 
+,	- - 
+-	- - 
+ніколи	ніколи adv:&pron:neg 
+не	не part 
+піду	піти verb:futr:s:1:perf 
+ні	ні part 
+в	в prep:rv_zna:rv_mis:rv_rod:v-u 
+Ель	ель noun:m:v_naz 
+        noun:m:v_zna 
+Греко	Греко noun:f:v_dav:nv:np:anim:lname
+              noun:f:v_mis:nv:np:anim:lname
+              noun:f:v_naz:nv:np:anim:lname
+              noun:f:v_oru:nv:np:anim:lname
+              noun:f:v_rod:nv:np:anim:lname
+              noun:f:v_zna:nv:np:anim:lname
+              noun:m:v_naz:anim:lname 
+ні	ні part 
+в	в prep:rv_zna:rv_mis:rv_rod:v-u 
+інші	інший adj:p:v_naz:&pron:def 
+              adj:p:v_zna:&pron:def 
+заклади	заклад noun:p:v_naz 
+               noun:p:v_zna 
+        закласти verb:impr:s:2:perf 
+де	де adv:&pron:int:rel 
+       part 
+той	той adj:m:v_naz:&pron:dem 
+        adj:m:v_zna:&pron:dem 
+самий	самий adj:m:v_naz 
+              adj:m:v_zna 
+власник	власник noun:m:v_naz:anim 
+(	- - 
+stars	- - 
+)	- - 
+,	- - 
+з	з prep:rv_rod:rv_zna:rv_oru 
+банальної	банальний adj:f:v_rod:compb 
+поваги	повага noun:f:v_rod 
+               noun:p:v_naz 
+               noun:p:v_zna 
+до	до prep:rv_rod 
+себе	себе pron:refl:m:v_rod 
+             pron:refl:m:v_zna 
+             pron:refl:n:v_rod 
+             pron:refl:n:v_zna 
+!	- 
+
+SENT_END 
+PARA_END 
+- 
+SENT_START 
+При	при prep:rv_mis 
+    перти verb:impr:s:2:imperf 
+всій	всіяти verb:impr:s:2:perf:v-u 
+        весь adj:f:v_dav:&pron:dem 
+             adj:f:v_mis:&pron:dem 
+повазі	повага noun:f:v_dav 
+               noun:f:v_mis 
+,	- - 
+та	та conj:coord 
+       part 
+в	в prep:rv_zna:rv_mis:rv_rod:v-u 
+закладі	заклад noun:m:v_mis 
+,	- - 
+який	який adj:m:v_naz:&pron:int:rel:def
+             adj:m:v_zna:&pron:int:rel:def
+шанує	шанувати verb:pres:s:3:imperf 
+свою	свій adj:f:v_zna:&pron:pos 
+репутацію	репутація noun:f:v_zna 
+в	в prep:rv_zna:rv_mis:rv_rod:v-u 
+принципі	принцип noun:m:v_mis 
+не	не part 
+може	могти verb:unknown 
+бути	бути verb:inf:imperf 
+        може бути </insert> 
+такого	такий adj:m:v_rod:&pron:def 
+              adj:m:v_zna:&pron:def 
+              adj:n:v_rod:&pron:def 
+хамовитого	хамовитий adj:m:v_rod 
+                      adj:m:v_zna 
+                      adj:n:v_rod 
+адміністратора	адміністратор noun:m:v_rod:anim 
+                              noun:m:v_zna:anim 
+.	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Але	але conj:coord 
+        excl 
+ви	ви pron:pers:p:2:v_kly:anim 
+       pron:pers:p:2:v_naz:anim 
+як	як adv:&pron:int:rel 
+       conj:subord 
+       noun:m:v_naz:anim 
+       part 
+видно	видно insert 
+              predic 
+не	не part 
+зацікавлені	зацікавлений adjp:pasv:past:p:v_naz 
+                         adjp:pasv:past:p:v_zna 
+в	в prep:rv_zna:rv_mis:rv_rod:v-u 
+постійних	постійний adj:p:v_mis 
+                      adj:p:v_rod 
+                      adj:p:v_zna 
+відвідувачах	відвідувач noun:p:v_mis:anim 
+.	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Тому	тому adv 
+             conj:subord 
+        том noun:m:v_dav 
+            noun:m:v_mis 
+            noun:m:v_rod 
+        той adj:m:v_dav:&pron:dem
+            adj:m:v_mis:&pron:dem
+            adj:n:v_dav:&pron:dem 
+            adj:n:v_mis:&pron:dem 
+і	і conj:coord 
+      part 
+спілкуєтесь	спілкуватися verb:rev:pres:p:2:imperf
+на	на excl 
+       part 
+       prep:rv_zna:rv_mis 
+рівні	рівний adj:p:v_naz:compb 
+               adj:p:v_zna:compb 
+        рівня noun:f:v_dav 
+              noun:f:v_dav:anim 
+              noun:f:v_mis 
+              noun:f:v_mis:anim 
+              noun:f:v_rod 
+              noun:f:v_rod:anim 
+        рівень noun:m:v_mis 
+               noun:p:v_naz 
+               noun:p:v_zna 
+сільської	сільський adj:f:v_rod 
+доярки	доярка noun:f:v_rod:anim 
+               noun:p:v_kly:anim 
+               noun:p:v_naz:anim 
+.	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Хоча	хоча conj:subord 
+             part 
+тепер	тепер adv:&pron:dem 
+і	і conj:coord 
+      part 
+не	не part 
+дивуюсь	дивуватися verb:rev:pres:s:1:imperf
+звідки	звідки adv:&pron:int:rel 
+такі	такий adj:p:v_naz:&pron:def 
+              adj:p:v_zna:&pron:def 
+"	- - 
+виховані	вихований adjp:pasv:past:p:v_naz 
+                      adjp:pasv:past:p:v_zna 
+"	- - 
+офіціанти	офіціант noun:p:v_kly:anim 
+                     noun:p:v_naz:anim 
+.	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Де	де adv:&pron:int:rel 
+       part 
+ви	ви pron:pers:p:2:v_kly:anim 
+       pron:pers:p:2:v_naz:anim
+там	там adv:&pron:dem 
+        part 
+сервіс	сервіс noun:m:v_naz 
+               noun:m:v_zna 
+побачили	побачити verb:past:p:perf 
+?	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Офіціантка	офіціантка noun:f:v_naz:anim 
+порозкидала	порозкидати verb:past:f:perf 
+столові	столовий adj:p:v_naz 
+                 adj:p:v_zna 
+        стіл noun:m:v_dav 
+прибори	прибор noun:p:v_naz 
+               noun:p:v_zna 
+й	й conj:coord 
+      part 
+потім	потім adv:&pron:dem 
+подала	подати verb:past:f:perf 
+їх	вони pron:pers:p:3:v_rod:anim
+         pron:pers:p:3:v_zna:anim
+же	же conj:coord 
+       part 
+відвідувачам	відвідувач noun:p:v_dav:anim 
+,	- - 
+а	а conj:coord 
+      excl 
+      part 
+ви	ви pron:pers:p:2:v_kly:anim 
+       pron:pers:p:2:v_naz:anim
+теж	теж adv 
+        part 
+користуєтесь	користуватися verb:rev:pres:p:2:imperf 
+брудними	брудний adj:p:v_oru:compb 
+приборами	прибор noun:p:v_oru 
+коли	коли adv:&pron:int:rel 
+             conj:subord 
+             part 
+        колоти verb:impr:s:2:imperf 
+        кіл noun:p:v_naz 
+            noun:p:v_zna 
+вечеряєте	вечеряти verb:pres:p:2:imperf 
+?	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+На	на excl 
+       part 
+       prep:rv_zna:rv_mis 
+зауваження	зауваження noun:n:v_naz 
+                       noun:n:v_rod 
+                       noun:n:v_zna 
+                       noun:p:v_naz 
+                       noun:p:v_zna 
+ніяк	ніяк adv:&pron:neg 
+             predic 
+не	не part 
+реагують	реагувати verb:pres:p:3:imperf 
+.	- 
+SENT_END 
+Disambiguator log: 
+DIS_PREP_OR_NOUN_DO:1 до[до/noun:n:v_dav:nv,до/noun:n:v_mis:nv,до/noun:n:v_naz:nv,до/noun:n:v_oru:nv,до/noun:n:v_rod:nv,до/noun:n:v_zna:nv,до/noun:p:v_dav:nv,до/noun:p:v_mis:nv,до/noun:p:v_naz:nv,до/noun:p:v_oru:nv,до/noun:p:v_rod:nv,до/noun:p:v_zna:nv,до/prep:rv_rod] -> до[до/prep:rv_rod]
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Стоять	стояти verb:pres:p:3:imperf 
+собі	себе pron:refl:m:v_dav 
+             pron:refl:m:v_mis 
+             pron:refl:n:v_dav 
+             pron:refl:n:v_mis 
+філейною	філейний adj:f:v_oru 
+частиною	частина noun:f:v_oru 
+до	до prep:rv_rod 
+відвідувачів	відвідувач noun:p:v_rod:anim 
+                           noun:p:v_zna:anim 
+і	і conj:coord 
+      part 
+регочуть	реготати verb:pres:p:3:imperf 
+.	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Провести	провести verb:inf:perf 
+затишний	затишний adj:m:v_naz:compb 
+                     adj:m:v_zna:compb 
+вечір	вечір noun:m:v_naz 
+              noun:m:v_zna 
+нереально	нереально adv 
+!	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Тому	тому adv 
+             conj:subord 
+        том noun:m:v_dav 
+            noun:m:v_mis 
+            noun:m:v_rod 
+        той adj:m:v_dav:&pron:dem 
+            adj:m:v_mis:&pron:dem 
+            adj:n:v_dav:&pron:dem 
+            adj:n:v_mis:&pron:dem 
+і	і conj:coord 
+      part 
+доплачувати	доплачувати verb:inf:imperf 
+немає	немає predic 
+за	за prep:rv_rod:rv_zna:rv_oru
+що	що conj:subord 
+       pron:int:rel:n:v_naz 
+       pron:int:rel:n:v_zna 
+і	і conj:coord 
+      part 
+чайові	чайові noun:p:v_naz 
+               noun:p:v_zna 
+лишати	лишати verb:inf:imperf 
+теж	теж adv 
+        part 
+немає	немає predic 
+за	за prep:rv_rod:rv_zna:rv_oru
+що	що conj:subord 
+       pron:int:rel:n:v_naz 
+       pron:int:rel:n:v_zna 
+.	- 
+SENT_END 
+Disambiguator log: 
+DIS_PREP_NA:1 на[на/excl,на/part,на/prep:rv_zna:rv_mis] -> на[на/prep:rv_zna:rv_mis]
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Ваш	ваш adj:m:v_naz:&pron:pos
+        adj:m:v_zna:&pron:pos
+заклад	заклад noun:m:v_naz 
+               noun:m:v_zna 
+орієнтований	орієнтований adjp:pasv:past:m:v_naz
+                             adjp:pasv:past:m:v_zna
+на	на prep:rv_zna:rv_mis 
+разового	разовий adj:m:v_rod 
+                    adj:m:v_zna 
+                    adj:n:v_rod 
+покупця	покупець noun:m:v_rod:anim 
+                 noun:m:v_zna:anim 
+,	- - 
+бо	бо conj:subord 
+       part 
+другий	другий adj:m:v_naz 
+               adj:m:v_zna 
+раз	раз adv 
+        conj:subord 
+        noun:m:v_naz 
+        noun:m:v_zna 
+вже	вже adv:v-u 
+ніхто	ніхто pron:neg:v_naz:anim 
+не	не part 
+прийде	прийти verb:futr:s:3:perf 
+.	- 
+
+SENT_END 
+PARA_END 
+- 
+SENT_START 
+Минулого	минулий adjp:actv:past:m:v_rod 
+                    adjp:actv:past:m:v_zna 
+                    adjp:actv:past:n:v_rod 
+разу	раз noun:m:v_dav 
+            noun:m:v_mis 
+            noun:m:v_rod 
+,	- - 
+коли	коли adv:&pron:int:rel 
+             conj:subord 
+             part 
+        колоти verb:impr:s:2:imperf 
+        кіл noun:p:v_naz 
+            noun:p:v_zna 
+була	булий adjp:actv:past:f:v_naz 
+        бути verb:past:f:imperf 
+в	в prep:rv_zna:rv_mis:rv_rod:v-u 
+"	- - 
+Ель	ель noun:m:v_naz 
+        noun:m:v_zna 
+Греку	Греко noun:m:v_dav:anim:lname 
+              noun:m:v_mis:anim:lname 
+        грек noun:m:v_dav:anim 
+             noun:m:v_kly:anim 
+             noun:m:v_mis:anim 
+"	- - 
+,	- - 
+офіціанти	офіціант noun:p:v_kly:anim 
+                     noun:p:v_naz:anim 
+були	бути verb:past:p:imperf 
+м'яко	м'яко adv:compb 
+кажучи	казати advp:imperf 
+не	не part 
+привітні	привітний adj:p:v_naz:compb 
+                      adj:p:v_zna:compb 
+,	- - 
+але	але conj:coord 
+        excl 
+ми	ми pron:pers:p:1:v_naz:anim 
+списали	списати verb:past:p:perf 
+це	цей adj:n:v_naz:&pron:dem 
+        adj:n:v_zna:&pron:dem 
+на	на prep:rv_zna:rv_mis 
+втому	втома noun:f:v_zna:v-u 
+,	- - 
+оскільки	оскільки conj:subord 
+,	- - 
+було	бути verb:past:n:imperf 
+вже	вже adv:v-u 
+досить	досить adv 
+               predic 
+пізно	пізно adv 
+,	- - 
+біля	біля adv 
+23.00	23.00 time 
+.	- 
+SENT_END 
+Disambiguator log: 
+PRON_OR_CONJ_TA:1 та[та/conj:coord,та/part,той/adj:f:v_naz:&pron:dem] -> та[та/conj:coord,та/part]
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Але	але conj:coord 
+        excl 
+сьогодні	сьогодні adv 
+,	- - 
+коли	коли adv:&pron:int:rel 
+             conj:subord 
+             part 
+        колоти verb:impr:s:2:imperf 
+        кіл noun:p:v_naz 
+            noun:p:v_zna 
+зайшла	зайшлий adj:f:v_naz 
+        зайти verb:past:f:perf 
+на	на excl 
+       part 
+       prep:rv_zna:rv_mis 
+обід	обід noun:m:v_naz 
+             noun:m:v_zna 
+,	- - 
+ситуація	ситуація noun:f:v_naz 
+була	булий adjp:actv:past:f:v_naz 
+        бути verb:past:f:imperf 
+та	та conj:coord 
+       part 
+сама	сам adj:f:v_naz:&pron:def 
+        самий adj:f:v_naz 
+...	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Окрім	окрім prep:rv_rod 
+цього	цей adj:m:v_rod:&pron:dem 
+            adj:m:v_zna:&pron:dem
+            adj:n:v_rod:&pron:dem 
+додалося	додатися verb:rev:past:n:perf 
+ще	ще adv 
+       part 
+декілька	декілька numr:p:v_naz:&pron:ind
+                     numr:p:v_zna:&pron:ind
+неприємних	неприємний adj:p:v_mis:compb 
+                       adj:p:v_rod:compb 
+                       adj:p:v_zna:compb 
+моментів	момент noun:p:v_rod 
+.	- 
+SENT_END 
+Disambiguator log: 
+DIS_PREP_NA:1 на[на/excl,на/part,на/prep:rv_zna:rv_mis] -> на[на/prep:rv_zna:rv_mis]
+PRON_OR_CONJ_TA:1 та[та/conj:coord,та/part,той/adj:f:v_naz:&pron:dem] -> та[та/conj:coord,та/part]
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Замовили	замовити verb:past:p:perf 
+піцу	піца noun:f:v_zna 
+,	- - 
+чекали	чекати verb:past:p:imperf 
+на	на prep:rv_zna:rv_mis 
+неї	вона pron:pers:f:3:v_rod:anim 
+         pron:pers:f:3:v_zna:anim
+майже	майже adv 
+годину	година noun:f:v_zna 
+часу	час noun:m:v_dav 
+            noun:m:v_mis 
+            noun:m:v_rod 
+.	- - 
+.	- - 
+принесли	принести verb:past:p:perf 
+тарілки	тарілка noun:f:v_rod 
+                noun:p:v_naz 
+                noun:p:v_zna 
+та	та conj:coord 
+       part 
+прибори	прибор noun:p:v_naz 
+               noun:p:v_zna 
+...	- - 
+тарілки	тарілка noun:f:v_rod 
+                noun:p:v_naz 
+                noun:p:v_zna 
+дуже	дуже adv 
+        дужий adj:n:v_naz:compb 
+              adj:n:v_zna:compb 
+пошкрябані	пошкрябаний adjp:pasv:past:p:v_naz 
+                        adjp:pasv:past:p:v_zna 
+,	- - 
+виглядають	виглядати verb:pres:p:3:imperf 
+не	не part 
+естетично	естетично adv:compb 
+...	- - 
+нарешті	нарешті adv 
+                insert 
+,	- - 
+принесли	принести verb:past:p:perf 
+піцу	піца noun:f:v_zna 
+,	- - 
+ми	ми pron:pers:p:1:v_naz:anim
+вже	вже adv:v-u 
+були	бути verb:past:p:imperf 
+досить	досить adv 
+               predic 
+голодними	голодний adj:p:v_oru:compb 
+...	- - 
+піца	піца noun:f:v_naz 
+виявилась	виявитися verb:rev:past:f:perf 
+зовсім	зовсім adv 
+не	не part 
+смачною	смачний adj:f:v_oru:compb 
+,	- - 
+тісто	тісто noun:n:v_naz 
+              noun:n:v_zna 
+було	бути verb:past:n:imperf 
+абсолютно	абсолютно adv 
+не	не part 
+соленим	солений adjp:pasv:past:m:v_oru 
+                adjp:pasv:past:n:v_oru 
+                adjp:pasv:past:p:v_dav 
+.	- 
+SENT_END 
+Disambiguator log: 
+DIS_PREP_NA:1 на[на/excl,на/part,на/prep:rv_zna:rv_mis] -> на[на/prep:rv_zna:rv_mis]
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Але	але conj:coord 
+        excl 
+були	бути verb:past:p:imperf 
+голодні	голодний adj:p:v_naz:compb 
+                 adj:p:v_zna:compb 
+й	й conj:coord 
+      part 
+тихо	тихо adv:compb 
+собі	себе pron:refl:m:v_dav 
+             pron:refl:m:v_mis 
+             pron:refl:n:v_dav 
+             pron:refl:n:v_mis 
+їли	їсти verb:past:p:imperf 
+,	- - 
+десь	десь adv:&pron:ind 
+             insert 
+             part 
+на	на prep:rv_zna:rv_mis 
+другому	другий adj:m:v_dav 
+               adj:m:v_mis 
+               adj:n:v_dav 
+               adj:n:v_mis 
+шматку	шматок noun:m:v_dav 
+               noun:m:v_mis 
+піци	піца noun:f:v_rod 
+             noun:p:v_naz 
+             noun:p:v_zna 
+я	я pron:pers:s:1:v_naz:anim 
+знайшла	знайти verb:past:f:perf 
+в	в prep:rv_zna:rv_mis:rv_rod:v-u 
+ній	вона pron:pers:f:3:v_mis:anim 
+дещо	дещо adv 
+             pron:ind:v_naz 
+             pron:ind:v_zna 
+цікаве	цікавий adj:n:v_naz:compb 
+                adj:n:v_zna:compb 
+-	- - 
+КУСОК	кусок noun:m:v_naz 
+              noun:m:v_zna 
+НЕ	не part 
+ТО	то conj:subord 
+ПЛАСТМАСИ	пластмаса noun:f:v_rod 
+                      noun:p:v_naz 
+                      noun:p:v_zna 
+,	- - 
+НЕ	не part 
+ТО	то conj:subord 
+СКЛА	скло noun:n:v_rod 
+розміром	розмір noun:m:v_oru 
+приблизно	приблизно adv:compb 
+1,5	1,5 number 
+на	на excl 
+       part 
+       prep:rv_zna:rv_mis 
+1	1 number 
+см	см noun:m:v_dav:nv:abbr 
+       noun:m:v_mis:nv:abbr 
+       noun:m:v_naz:nv:abbr 
+       noun:m:v_oru:nv:abbr 
+       noun:m:v_rod:nv:abbr 
+       noun:m:v_zna:nv:abbr 
+       noun:p:v_dav:nv:abbr 
+       noun:p:v_mis:nv:abbr 
+       noun:p:v_naz:nv:abbr 
+       noun:p:v_oru:nv:abbr 
+       noun:p:v_rod:nv:abbr 
+       noun:p:v_zna:nv:abbr 
+...	- - 
+"	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Наїлись	наїстися verb:rev:past:p:perf 
+"	- - 
+.	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Покликали	покликати verb:past:p:imperf 
+                      verb:past:p:perf 
+адміністратора	адміністратор noun:m:v_rod:anim 
+                              noun:m:v_zna:anim 
+...	- - 
+не	не part 
+почули	почути verb:past:p:perf 
+ні	ні part 
+вибачень	вибачення noun:p:v_rod 
+,	- - 
+ні	ні part 
+спроб	спроба noun:p:v_rod 
+врегулювати	врегулювати verb:inf:perf:v-u 
+ситуацію	ситуація noun:f:v_zna 
+...	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+А	а conj:coord 
+      excl 
+      part 
+ще	ще adv 
+       part 
+що	що conj:subord 
+       pron:int:rel:n:v_naz 
+       pron:int:rel:n:v_zna 
+здивувало	здивувати verb:past:n:perf 
+-	- - 
+він	він pron:pers:m:3:v_naz:anim
+собі	себе pron:refl:m:v_dav 
+             pron:refl:m:v_mis 
+             pron:refl:n:v_dav 
+             pron:refl:n:v_mis 
+так	так adv:&pron:dem 
+        conj:coord:subord 
+        part 
+мило	мило adv:compb 
+             noun:n:v_naz 
+             noun:n:v_zna 
+        мити verb:past:n:imperf 
+усміхався	усміхатися verb:rev:past:m:imperf:v-u 
+...	- 
+SENT_END 
+Disambiguator log: 
+DIS_PREP_OR_NOUN_DO:1 до[до/noun:n:v_dav:nv,до/noun:n:v_mis:nv,до/noun:n:v_naz:nv,до/noun:n:v_oru:nv,до/noun:n:v_rod:nv,до/noun:n:v_zna:nv,до/noun:p:v_dav:nv,до/noun:p:v_mis:nv,до/noun:p:v_naz:nv,до/noun:p:v_oru:nv,до/noun:p:v_rod:nv,до/noun:p:v_zna:nv,до/prep:rv_rod] -> до[до/prep:rv_rod]
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Жахливе	жахливий adj:n:v_naz:compb 
+                 adj:n:v_zna:compb 
+відношення	відношення noun:n:v_naz 
+                       noun:n:v_rod 
+                       noun:n:v_zna 
+                       noun:p:v_naz 
+                       noun:p:v_zna 
+до	до prep:rv_rod 
+клієнтів	клієнт noun:p:v_rod:anim 
+                   noun:p:v_zna:anim 
+.	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Більше	багато adv:compr 
+        великий adj:n:v_naz:compr 
+                adj:n:v_zna:compr 
+ні	ні part 
+ногою	нога noun:f:v_oru 
+туди	туди adv:&pron:dem 
+.	- 
+SENT_END 
+Disambiguator log: 
+DIS_PREP_OR_NOUN_DO:1 до[до/noun:n:v_dav:nv,до/noun:n:v_mis:nv,до/noun:n:v_naz:nv,до/noun:n:v_oru:nv,до/noun:n:v_rod:nv,до/noun:n:v_zna:nv,до/noun:p:v_dav:nv,до/noun:p:v_mis:nv,до/noun:p:v_naz:nv,до/noun:p:v_oru:nv,до/noun:p:v_rod:nv,до/noun:p:v_zna:nv,до/prep:rv_rod] -> до[до/prep:rv_rod]
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+За	за prep:rv_rod:rv_zna:rv_oru 
+років	рік noun:p:v_rod 
+5	5 number 
+заклад	заклад noun:m:v_naz 
+               noun:m:v_zna 
+змінився	змінитися verb:rev:past:m:perf 
+до	до prep:rv_rod 
+невпізнання	невпізнання noun:n:v_naz 
+                        noun:n:v_rod 
+                        noun:n:v_zna 
+(	- - 
+в	в prep:rv_zna:rv_mis:rv_rod:v-u 
+гіршу	поганий adj:f:v_zna:compr 
+сторону	сторона noun:f:v_zna 
+)	- - 
+.	- 
+
+SENT_END 
+PARA_END
+- 
+SENT_START 
+Була	булий adjp:actv:past:f:v_naz 
+        бути verb:past:f:imperf 
+в	в prep:rv_zna:rv_mis:rv_rod:v-u 
+Ель	ель noun:m:v_naz 
+        noun:m:v_zna 
+Греко	Греко noun:f:v_dav:nv:np:anim:lname
+              noun:f:v_mis:nv:np:anim:lname
+              noun:f:v_naz:nv:np:anim:lname
+              noun:f:v_oru:nv:np:anim:lname
+              noun:f:v_rod:nv:np:anim:lname
+              noun:f:v_zna:nv:np:anim:lname
+              noun:m:v_naz:anim:lname 
+цього	цей adj:m:v_rod:&pron:dem 
+            adj:m:v_zna:&pron:dem 
+            adj:n:v_rod:&pron:dem 
+тижня	тиждень noun:m:v_rod 
+...	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Кухня	кухня noun:f:v_naz 
+настільки	настільки adv 
+зіпсована	зіпсований adjp:pasv:past:f:v_naz 
+!	- - 
+!	- - 
+!	- - 
+!	- - 
+!	- - 
+!	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Таке	такий adj:n:v_naz:&pron:def 
+              adj:n:v_zna:&pron:def 
+враження	враження noun:n:v_naz 
+                     noun:n:v_rod 
+                     noun:n:v_zna 
+                     noun:p:v_naz 
+                     noun:p:v_zna 
+що	що conj:subord 
+       pron:int:rel:n:v_naz 
+       pron:int:rel:n:v_zna 
+макарони	макарони noun:p:v_naz 
+                     noun:p:v_zna 
+були	бути verb:past:p:imperf 
+двох	двоє numr:p:v_mis 
+             numr:p:v_rod 
+             numr:p:v_zna 
+        два numr:f:v_mis 
+            numr:f:v_rod 
+            numr:f:v_zna 
+            numr:m:v_mis 
+            numr:m:v_rod 
+            numr:m:v_zna 
+            numr:n:v_mis 
+            numr:n:v_rod 
+            numr:n:v_zna 
+тижневої	тижневий adj:f:v_rod 
+давності	давність noun:f:v_dav 
+                     noun:f:v_mis 
+                     noun:f:v_rod 
+                     noun:p:v_naz 
+                     noun:p:v_zna 
+,	- - 
+а	а conj:coord 
+      excl 
+      part 
+піца	піца noun:f:v_naz 
+як	як adv:&pron:int:rel 
+       conj:subord 
+       noun:m:v_naz:anim 
+       part 
+підошва	підошва noun:f:v_naz 
+...	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Доповнювальним	доповнювальний adj:m:v_oru 
+                               adj:n:v_oru 
+                               adj:p:v_dav 
+елементом	елемент noun:m:v_oru 
+було	бути verb:past:n:imperf 
+те	той adj:n:v_naz:&pron:dem
+        adj:n:v_zna:&pron:dem
+,	- - 
+що	що conj:subord 
+       pron:int:rel:n:v_naz 
+       pron:int:rel:n:v_zna 
+не	не part 
+працював	працювати verb:past:m:imperf 
+туалет	туалет noun:m:v_naz 
+               noun:m:v_zna 
+і	і conj:coord 
+      part 
+ніде	ніде adv:&pron:neg 
+було	бути verb:past:n:imperf 
+навіть	навіть part 
+помити	помити verb:inf:perf 
+рук	рука noun:p:v_rod 
+!	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Персонал	персонал noun:m:v_naz 
+                     noun:m:v_zna 
+це	цей adj:n:v_naz:&pron:dem 
+        adj:n:v_zna:&pron:dem 
+люди	люди noun:p:v_kly:anim 
+             noun:p:v_naz:anim 
+які	який adj:p:v_naz:&pron:int:rel:def
+         adj:p:v_zna:&pron:int:rel:def
+не	не part 
+мають	мати verb:pres:p:3:imperf 
+        маяти verb:pres:p:3:imperf 
+навіть	навіть part 
+відповідної	відповідний adj:f:v_rod:compb 
+освіти	освіта noun:f:v_rod 
+               noun:p:v_naz 
+               noun:p:v_zna 
+,	- - 
+не	не part 
+те	той adj:n:v_naz:&pron:dem 
+        adj:n:v_zna:&pron:dem 
+що	що conj:subord 
+       pron:int:rel:n:v_naz 
+       pron:int:rel:n:v_zna 
+освіти	освіта noun:f:v_rod 
+               noun:p:v_naz 
+               noun:p:v_zna 
+,	- - 
+а	а conj:coord 
+      excl 
+      part 
+навіть	навіть part 
+жодних	жодний adj:p:v_mis:&pron 
+               adj:p:v_rod:&pron 
+               adj:p:v_zna:&pron 
+манер	манера noun:p:v_rod 
+адекватної	адекватний adj:f:v_rod:compb 
+поведінки	поведінка noun:f:v_rod 
+!	- - 
+!	- - 
+!	- - 
+!	- 
+SENT_END 
+Disambiguator log: 
+MULTIWORD_CHUNKER: До[до/noun:n:v_dav:nv*,до/noun:n:v_mis:nv*,до/noun:n:v_naz:nv*,до/noun:n:v_oru:nv*,до/noun:n:v_rod:nv*,до/noun:n:v_zna:nv*,до/noun:p:v_dav:nv*,до/noun:p:v_mis:nv*,до/noun:p:v_naz:nv*,до/noun:p:v_oru:nv*,до/noun:p:v_rod:nv*,до/noun:p:v_zna:nv*,до/prep:rv_rod*] -> До[до/noun:n:v_dav:nv*,до/noun:n:v_mis:nv*,до/noun:n:v_naz:nv*,до/noun:n:v_oru:nv*,до/noun:n:v_rod:nv*,до/noun:n:v_zna:nv*,до/noun:p:v_dav:nv*,до/noun:p:v_mis:nv*,до/noun:p:v_naz:nv*,до/noun:p:v_oru:nv*,до/noun:p:v_rod:nv*,до/noun:p:v_zna:nv*,до/prep:rv_rod*,до речі/<insert>*]
+DIS_PREP_OR_NOUN_DO:1 До[до/noun:n:v_dav:nv*,до/noun:n:v_mis:nv*,до/noun:n:v_naz:nv*,до/noun:n:v_oru:nv*,до/noun:n:v_rod:nv*,до/noun:n:v_zna:nv*,до/noun:p:v_dav:nv*,до/noun:p:v_mis:nv*,до/noun:p:v_naz:nv*,до/noun:p:v_oru:nv*,до/noun:p:v_rod:nv*,до/noun:p:v_zna:nv*,до/prep:rv_rod*,до речі/<insert>*] -> До[до/prep:rv_rod*,до речі/<insert>*]
+MULTIWORD_CHUNKER: речі[річ/noun:f:v_dav,річ/noun:f:v_mis,річ/noun:f:v_rod,річ/noun:p:v_naz,річ/noun:p:v_zna] -> речі[річ/noun:f:v_dav,річ/noun:f:v_mis,річ/noun:f:v_rod,річ/noun:p:v_naz,річ/noun:p:v_zna,до речі/</insert>]
+DIS_PREP_OR_NOUN_DO:1 до[до/noun:n:v_dav:nv,до/noun:n:v_mis:nv,до/noun:n:v_naz:nv,до/noun:n:v_oru:nv,до/noun:n:v_rod:nv,до/noun:n:v_zna:nv,до/noun:p:v_dav:nv,до/noun:p:v_mis:nv,до/noun:p:v_naz:nv,до/noun:p:v_oru:nv,до/noun:p:v_rod:nv,до/noun:p:v_zna:nv,до/prep:rv_rod] -> до[до/prep:rv_rod]
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+До	до prep:rv_rod 
+    до речі <insert> 
+речі	річ noun:f:v_dav 
+            noun:f:v_mis 
+            noun:f:v_rod 
+            noun:p:v_naz 
+            noun:p:v_zna 
+        до речі </insert> 
+до	до prep:rv_rod 
+нашого	наш adj:m:v_rod:&pron:pos 
+            adj:m:v_zna:&pron:pos
+            adj:n:v_rod:&pron:pos 
+рахунку	рахунок noun:m:v_dav 
+                noun:m:v_mis 
+                noun:m:v_rod 
+дописали	дописати verb:past:p:perf 
+25.00	- - 
+грн	грн noun:f:v_dav:nv:abbr 
+        noun:f:v_mis:nv:abbr 
+        noun:f:v_naz:nv:abbr 
+        noun:f:v_oru:nv:abbr 
+        noun:f:v_rod:nv:abbr 
+        noun:f:v_zna:nv:abbr 
+        noun:p:v_dav:nv:abbr 
+        noun:p:v_mis:nv:abbr 
+        noun:p:v_naz:nv:abbr 
+        noun:p:v_oru:nv:abbr 
+        noun:p:v_rod:nv:abbr 
+        noun:p:v_zna:nv:abbr 
+!	- - 
+!	- - 
+!	- - 
+!	- - 
+!	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Не	не part 
+було	бути verb:past:n:imperf 
+меж	межа noun:p:v_rod 
+нашого	наш adj:m:v_rod:&pron:pos 
+            adj:m:v_zna:&pron:pos
+            adj:n:v_rod:&pron:pos 
+обурення	обурення noun:n:v_naz 
+                     noun:n:v_rod 
+                     noun:n:v_zna 
+                     noun:p:v_naz 
+                     noun:p:v_zna 
+,	- - 
+ПРОСТО	просто adv:compb 
+               part 
+               prep:rv_rod 
+ЖАХ	жах noun:m:v_naz 
+        noun:m:v_zna 
+!	- - 
+!	- - 
+!	- - 
+!	- - 
+!	- - 
+!	- - 
+!	- - 
+!	- - 
+!	- - 
+!	- - 
+!	- - 
+!	- - 
+!	- 
+SENT_END 
+Disambiguator log: 
+DIS_RARE_WORDS:1 можна[можна/predic,можний/adj:f:v_naz:rare] -> можна[можна/predic]
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Більше	багато adv:compr 
+        великий adj:n:v_naz:compr 
+                adj:n:v_zna:compr 
+ніколи	ніколи adv:&pron:neg 
+в	в prep:rv_zna:rv_mis:rv_rod:v-u 
+житті	життя noun:n:v_mis 
+я	я pron:pers:s:1:v_naz:anim 
+би	би part 
+не	не part 
+відвідала	відвідати verb:past:f:perf 
+цей	цей adj:m:v_naz:&pron:dem 
+        adj:m:v_zna:&pron:dem 
+"	- - 
+заклад	заклад noun:m:v_naz 
+               noun:m:v_zna 
+харчування	харчування noun:n:v_naz 
+                       noun:n:v_rod 
+                       noun:n:v_zna 
+                       noun:p:v_naz 
+                       noun:p:v_zna 
+"	- - 
+якщо	якщо conj:subord 
+можна	можна predic 
+так	так adv:&pron:dem 
+        conj:coord:subord 
+        part 
+його	його adj:m:nv:&pron:pos 
+             adj:n:nv:&pron:pos 
+        він pron:pers:m:3:v_rod:anim 
+            pron:pers:m:3:v_zna:anim 
+        воно pron:pers:n:3:v_rod 
+             pron:pers:n:3:v_zna 
+назвати	назвати verb:inf:perf 
+...	- - 
+.	- 
+
+SENT_END 
+PARA_END  
+- 
+SENT_START 
+Я	я pron:pers:s:1:v_naz:anim 
+прочитала	прочитати verb:past:f:perf 
+минулі	минулий adjp:actv:past:p:v_naz 
+                adjp:actv:past:p:v_zna 
+коментарі	коментар noun:m:v_mis 
+                     noun:p:v_naz 
+                     noun:p:v_zna 
+й	й conj:coord 
+      part 
+перш	перш adv 
+за	за prep:rv_rod:rv_zna:rv_oru
+все	все adv:v-u 
+        conj:coord:v-u 
+        part:v-u 
+    весь adj:n:v_naz:&pron:dem 
+         adj:n:v_zna:&pron:dem 
+хочу	хотіти verb:unknown 
+звернутися	звернутися verb:rev:inf:perf 
+до	до prep:rv_rod 
+адміністратора	адміністратор noun:m:v_rod:anim 
+                              noun:m:v_zna:anim 
+даного	даний adjp:pasv:past:m:v_rod 
+              adjp:pasv:past:m:v_zna 
+              adjp:pasv:past:n:v_rod 
+закладу	заклад noun:m:v_dav 
+               noun:m:v_mis 
+               noun:m:v_rod 
+        закласти verb:futr:s:1:perf 
+.	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Шановний	шановний adj:m:v_naz 
+                     adj:m:v_zna 
+адміністратор	адміністратор noun:m:v_naz:anim 
+,	- - 
+про	про prep:rv_zna 
+який	який adj:m:v_naz:&pron:int:rel:def
+             adj:m:v_zna:&pron:int:rel:def
+відмінний	відмінний adj:m:v_naz 
+                      adj:m:v_zna 
+сервіс	сервіс noun:m:v_naz 
+               noun:m:v_zna 
+та	та conj:coord 
+       part 
+відповідне	відповідний adj:n:v_naz:compb 
+                        adj:n:v_zna:compb 
+обслуговування	обслуговування noun:n:v_naz 
+                               noun:n:v_rod 
+                               noun:n:v_zna 
+                               noun:p:v_naz 
+                               noun:p:v_zna 
+ви	ви pron:pers:p:2:v_kly:anim 
+       pron:pers:p:2:v_naz:anim 
+говорите	говорити verb:pres:p:2:imperf 
+?	- - 
+?	- - 
+?	- 
+SENT_END 
+Disambiguator log: 
+MULTIWORD_CHUNKER: може[може/insert,могти/verb:unknown] -> може[може/insert,могти/verb:unknown,може бути/<insert>]
+DIS_INSERTS:1 може[може/insert,могти/verb:unknown,може бути/<insert>] -> може[могти/verb:unknown]
+MULTIWORD_CHUNKER: бути[бути/verb:inf:imperf] -> бути[бути/verb:inf:imperf,може бути/</insert>]
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Це	цей adj:n:v_naz:&pron:dem 
+        adj:n:v_zna:&pron:dem 
+найжахливіше	жахливий adj:n:v_naz:super 
+                         adj:n:v_zna:super 
+                жахливо adv:super 
+обслуговування	обслуговування noun:n:v_naz 
+                               noun:n:v_rod 
+                               noun:n:v_zna 
+                               noun:p:v_naz 
+                               noun:p:v_zna 
+,	- - 
+яке	який adj:n:v_naz:&pron:int:rel:def
+         adj:n:v_zna:&pron:int:rel:def
+може	могти verb:unknown 
+бути	бути verb:inf:imperf 
+може бути </insert> 
+!	- - 
+!	- - 
+!	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Щоб	щоб conj:subord 
+        part 
+підійшов	підійти verb:past:m:perf 
+офіціант	офіціант noun:m:v_naz:anim 
+прийняти	прийняти verb:inf:perf 
+замовлення	замовлення noun:n:v_naz 
+                       noun:n:v_rod 
+                       noun:n:v_zna 
+                       noun:p:v_naz 
+                       noun:p:v_zna 
+потрібно	потрібно adv:compb 
+чекати	чекати verb:inf:imperf 
+20	20 number 
+хвилин	хвилина noun:p:v_rod 
+,	- - 
+при	при prep:rv_mis 
+    перти verb:impr:s:2:imperf 
+тому	тому adv 
+             conj:subord 
+        том noun:m:v_dav 
+            noun:m:v_mis 
+            noun:m:v_rod 
+        той adj:m:v_dav:&pron:dem
+            adj:m:v_mis:&pron:dem
+            adj:n:v_dav:&pron:dem 
+            adj:n:v_mis:&pron:dem 
+,	- - 
+що	що conj:subord 
+       pron:int:rel:n:v_naz 
+       pron:int:rel:n:v_zna 
+3-4	3-4 number 
+офіціанти	офіціант noun:p:v_kly:anim 
+                     noun:p:v_naz:anim 
+сидять	сидіти verb:pres:p:3:imperf 
+біля	біля adv 
+барної	барний adj:f:v_rod 
+стійки	стійка noun:f:v_rod 
+               noun:p:v_naz 
+               noun:p:v_zna 
+й	й conj:coord 
+      part 
+розмовляють	розмовляти verb:pres:p:3:imperf 
+і	і conj:coord 
+      part 
+відвідувачів	відвідувач noun:p:v_rod:anim 
+                           noun:p:v_zna:anim 
+немає	немає predic 
+.	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Потім	потім adv:&pron:dem 
+потрібно	потрібно adv:compb 
+почекати	почекати verb:inf:perf 
+ще	ще adv 
+       part 
+30	30 number 
+хвилин	хвилина noun:p:v_rod 
+,	- - 
+щоб	щоб conj:subord 
+        part 
+нарешті	нарешті adv 
+                insert 
+принесли	принести verb:past:p:perf 
+замовлення	замовлення noun:n:v_naz 
+                       noun:n:v_rod 
+                       noun:n:v_zna 
+                       noun:p:v_naz 
+                       noun:p:v_zna 
+.	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Якщо	якщо conj:subord 
+вам	ви pron:pers:p:2:v_dav:anim
+захочеться	захотітися verb:unknown 
+ще	ще adv 
+       part 
+щось	щось pron:ind:n:v_zna 
+замовити	замовити verb:inf:perf 
+,	- - 
+доведеться	довестися verb:rev:futr:s:3:perf 
+почекати	почекати verb:inf:perf 
+,	- - 
+поки	поки adv:&pron:int:rel 
+             conj:subord 
+офіціант	офіціант noun:m:v_naz:anim 
+захоче	захотіти verb:unknown 
+до	до prep:rv_rod 
+вас	ви pron:pers:p:2:v_mis:anim
+       pron:pers:p:2:v_rod:anim
+       pron:pers:p:2:v_zna:anim
+підійти	підійти verb:inf:perf 
+.	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Про	про prep:rv_zna 
+те	той adj:n:v_naz:&pron:dem
+        adj:n:v_zna:&pron:dem
+,	- - 
+щоб	щоб conj:subord 
+        part 
+принесли	принести verb:past:p:perf 
+рахунок	рахунок noun:m:v_naz 
+                noun:m:v_zna 
+потрібно	потрібно adv:compb 
+просити	просити verb:inf:imperf 
+також	також adv 
+              conj:coord 
+2	2 number 
+рази	раз noun:p:v_naz 
+            noun:p:v_zna 
+.	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Решту	решта noun:f:v_zna 
+після	після adv 
+        prep:rv_rod 
+оплати	оплатити verb:impr:s:2:perf 
+        оплата noun:f:v_rod 
+               noun:p:v_naz 
+               noun:p:v_zna 
+рахунку	рахунок noun:m:v_dav 
+                noun:m:v_mis 
+                noun:m:v_rod 
+також	також adv 
+              conj:coord 
+ніхто	ніхто pron:neg:v_naz:anim 
+не	не part 
+вважає	вважати verb:pres:s:3:imperf 
+за	за prep:rv_rod:rv_zna:rv_oru
+потрібне	потрібний adj:n:v_naz:compb 
+                      adj:n:v_zna:compb 
+приносити	приносити verb:inf:imperf 
+.	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Крім	крім prep:rv_rod 
+цього	цей adj:m:v_rod:&pron:dem
+            adj:m:v_zna:&pron:dem
+            adj:n:v_rod:&pron:dem 
+всього	весь adj:m:v_rod:&pron:dem
+             adj:m:v_zna:&pron:dem
+             adj:n:v_rod:&pron:dem 
+,	- - 
+офіціанти	офіціант noun:p:v_kly:anim 
+                     noun:p:v_naz:anim 
+зовсім	зовсім adv 
+не	не part  
+привітні	привітний adj:p:v_naz:compb 
+                      adj:p:v_zna:compb 
+й	й conj:coord 
+      part 
+не	не part 
+має	мати verb:pres:s:3:imperf 
+    маяти verb:pres:s:3:imperf 
+ніякого	ніякий adj:m:v_rod:&pron:neg 
+               adj:m:v_zna:&pron:neg 
+               adj:n:v_rod:&pron:neg 
+бажання	бажання noun:n:v_naz 
+                noun:n:v_rod 
+                noun:n:v_zna 
+                noun:p:v_naz 
+                noun:p:v_zna 
+приходити	приходити verb:inf:imperf 
+ще	ще adv 
+       part 
+раз	раз adv 
+        conj:subord 
+        noun:m:v_naz 
+        noun:m:v_zna 
+в	в prep:rv_zna:rv_mis:rv_rod:v-u 
+Ель	ель noun:m:v_naz 
+        noun:m:v_zna 
+Греко	Греко noun:f:v_dav:nv:np:anim:lname
+              noun:f:v_mis:nv:np:anim:lname
+              noun:f:v_naz:nv:np:anim:lname
+              noun:f:v_oru:nv:np:anim:lname
+              noun:f:v_rod:nv:np:anim:lname
+              noun:f:v_zna:nv:np:anim:lname
+              noun:m:v_naz:anim:lname 
+.	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+І	і conj:coord 
+      part 
+я	я pron:pers:s:1:v_naz:anim 
+не	не part 
+розумію	розуміти verb:pres:s:1:imperf 
+за	за prep:rv_rod:rv_zna:rv_oru
+що	що conj:subord 
+       pron:int:rel:n:v_naz 
+       pron:int:rel:n:v_zna 
+я	я pron:pers:s:1:v_naz:anim 
+маю	мати verb:pres:s:1:imperf 
+    маяти verb:pres:s:1:imperf 
+платити	платити verb:inf:imperf 
+5	5 number 
+%	- - 
+за	за prep:rv_rod:rv_zna:rv_oru
+сервіс	сервіс noun:m:v_naz 
+               noun:m:v_zna 
+,	- - 
+якщо	якщо conj:subord 
+він	він pron:pers:m:3:v_naz:anim
+просто	просто adv:compb 
+               part 
+               prep:rv_rod 
+відсутній	відсутній adj:f:v_dav 
+                      adj:f:v_mis 
+                      adj:m:v_naz 
+                      adj:m:v_zna 
+?	- - 
+?	- - 
+?	- 
+
+SENT_END 
+PARA_END 
+- 
+SENT_START 
+Мені	Мен noun:m:v_mis 
+        Мена noun:f:v_dav 
+             noun:f:v_mis 
+        Мень noun:m:v_mis:anim:lname
+        я pron:pers:s:1:v_dav:anim 
+          pron:pers:s:1:v_mis:anim 
+там	там adv:&pron:dem 
+        part 
+сподобалося	сподобатися verb:rev:past:n:perf 
+,	- - 
+тарганів	тарган noun:p:v_rod:anim 
+                   noun:p:v_zna:anim 
+не	не part 
+бачила	бачити verb:past:f:imperf 
+піца	піца noun:f:v_naz 
+дуже	дуже adv 
+        дужий adj:n:v_naz:compb 
+              adj:n:v_zna:compb 
+смачна	смачний adj:f:v_naz:compb 
+,	- - 
+але	але conj:coord 
+        excl 
+є	бути verb:pres:p:1:imperf 
+         verb:pres:p:2:imperf 
+         verb:pres:p:3:imperf 
+         verb:pres:p::imperf 
+         verb:pres:s:1:imperf 
+         verb:pres:s:2:imperf 
+         verb:pres:s:3:imperf 
+         verb:pres:s::imperf 
+один	один numr:m:v_naz 
+             numr:m:v_zna 
+мінус	мінус noun:m:v_naz 
+              noun:m:v_zna 
+не	не part 
+привітні	привітний adj:p:v_naz:compb 
+                      adj:p:v_zna:compb 
+офіціанти	офіціант noun:p:v_kly:anim 
+                     noun:p:v_naz:anim 
+,	- - 
+але	але conj:coord 
+        excl 
+я	я pron:pers:s:1:v_naz:anim 
+ще	ще adv 
+       part 
+обов'язково	обов'язковий adj:f:v_zna 
+знову	знову adv 
+туди	туди adv:&pron:dem 
+завітаю	завітати verb:futr:s:1:perf 
+)	- - 
+)	- 
+
+SENT_END 
+PARA_END 

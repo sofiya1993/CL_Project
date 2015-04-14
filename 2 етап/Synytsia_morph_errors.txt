@@ -1,0 +1,59 @@
+﻿ресторану	ресторан noun:m:v_dav 
+                     noun:m:v_mis        = ресторану noun:m:v_rod
+поки	поки adv:&pron:int:rel 
+             conj:subord 
+що	що conj:subord 
+       pron:int:rel:n:v_naz 
+       pron:int:rel:n:v_zna	            = поки що adv:&pron:int:rel
+звісно	звісно adv 	                    = звісно insert
+певно	певно adv:compb                 = певно insert
+того	той adj:m:v_rod:&pron:dem       = той  pron:int:dem:n:v_rod
+більше	багато adv:compr                = більше adv
+який	який adj:m:v_naz:&pron:int:rel:def
+             adj:m:v_zna:&pron:int:rel:def    = який conj:coord
+швидше	швидкий adj:n:v_naz:compr 
+                adj:n:v_zna:compr 
+        швидко adv:compr                      = швидше adv
+це	цей adj:n:v_naz:&pron:dem
+        adj:n:v_zna:&pron:dem		          = це pron:int:dem:n:v_naz
+найбільш	багато adv:super                  = найбільше adv		
+Ель	ель noun:m:v_naz 
+        noun:m:v_zna 
+Греко	Греко noun:f:v_dav:nv:np:anim:lname
+              noun:f:v_mis:nv:np:anim:lname
+              noun:f:v_naz:nv:np:anim:lname
+              noun:f:v_oru:nv:np:anim:lname
+              noun:f:v_rod:nv:np:anim:lname
+              noun:f:v_zna:nv:np:anim:lname
+              noun:m:v_naz:anim:lname               = Ель Греко noun:m:v_naz
+певне	певний adj:n:v_naz:compb 
+               adj:n:v_zna:compb                    = певне insert
+де	де adv:&pron:int:rel 
+       part                                         = де conj:coord
+справа	справа noun:f:v_naz                         = справа adv
+навпроти	навпроти prep:rv_rod                    = напроти adv
+невиплачуванні	невиплачування noun:n:v_mis         = невиплачування noun:n:v_dav
+цьому	цей adj:m:v_dav:&pron:dem 
+            adj:m:v_mis:&pron:dem 
+            adj:n:v_dav:&pron:dem 
+            adj:n:v_mis:&pron:dem                   = це pron:int:dem:n:v_rod
+який	який adj:m:v_naz:&pron:int:rel:def
+		adj:m:v_zna:&pron:int:rel:def           	= який pron:int:ind:m:v_rod
+значить	значити verb:pres:s:3:imperf		        = значить insert
+но	но excl                                         
+       part                                        = но conj:subord
+як	як adv:&pron:int:rel 
+       conj:subord 
+       noun:m:v_naz:anim 
+       part 
+видно	видно insert 
+              predic                              = як видно insert
+біля	біля adv 			                      = біля prep:rv_rod
+цього	цей adj:m:v_rod:&pron:dem 
+            adj:m:v_zna:&pron:dem
+            adj:n:v_rod:&pron:dem                 = це pron:int:dem:n:v_rod
+те	той adj:n:v_naz:&pron:dem
+        adj:n:v_zna:&pron:dem                     = той pron:int:dem:n:v_naz
+рук	рука noun:p:v_rod 			                  = рук noun:p:v_zna
+це	цей adj:n:v_naz:&pron:dem 
+        adj:n:v_zna:&pron:dem                     = це part
