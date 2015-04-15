@@ -1,8 +1,6 @@
-Ірина_25_10_2014_01 - http://www.doroga.ua/restaurant/Ljvovskaya/Ljvov/Kumpelj/640
+﻿Ірина_25_10_2014_01 - http://www.doroga.ua/restaurant/Ljvovskaya/Ljvov/Kumpelj/640
 DDS_8_09_2014_01 - http://www.doroga.ua/restaurant/Ljvovskaya/Ljvov/Kumpelj/640
-StefkoRondel_3_06_2014_01 - http://www.doroga.ua/restaurant/Ljvovskaya/Ljvov/Kumpelj/640
 Денис_29_10_2009_01 -  http://visitlviv.net/restaurant/ru/kumpel/
-Vasia12_30_03_2010_01 - http://visitlviv.net/restaurant/ru/kumpel/
 Яна_07_04_2010_01 - http://visitlviv.net/restaurant/ru/kumpel/
 Оленка_19_05_2010_01 - http://visitlviv.net/restaurant/ru/kumpel/
 VUVA_14_07_2010_01 - http://visitlviv.net/restaurant/ru/kumpel/
@@ -17,7 +15,6 @@ Galina Sh._12_01_2014_01 - http://visitlviv.net/restaurant/ru/kumpel/
 Оксана_07_08_2010_01 -  http://v.lviv.ua/catalog/food/bary/kumpel.html#comments
 Олена_07_05_2012_01 -  http://v.lviv.ua/catalog/food/bary/kumpel.html#comments
 olja_13_03_2012_01 -  http://v.lviv.ua/catalog/food/bary/kumpel.html#comments
-Василь_20_03_2012_01 -  http://v.lviv.ua/catalog/food/bary/kumpel.html#comments
 Уляна_15_12_2014_01 - http://lviv.travel/ua/index/wheretoeat/~26/kumpel
 Оля_23_11_2014_01 - http://lviv.travel/ua/index/wheretoeat/~26/kumpel
 KSYNJA_22_02_2012_01 - http://lviv.travel/ua/index/wheretoeat/~26/kumpel
