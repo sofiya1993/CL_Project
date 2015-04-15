@@ -1,0 +1,8 @@
+це	                  цей     	        adj:n:v_naz:&pron:dem   ///   pron:dem
+болять	              боліти 	       verb:unknown ///   verb:pres:p:1:imperf:aktiv
+туди                  туди             adv:&pron:dem  ///  pron:dem
+випившим              -                - ///  adjp:past:aktiv:v_oru
+на	    на 	excl             ///  adv
+		part 
+		prep:rv_zna:rv_mis 
+тут                   тут              adv:&pron:dem    ///   adv
