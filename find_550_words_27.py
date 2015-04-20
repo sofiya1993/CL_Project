@@ -24,7 +24,7 @@ def corpus_checking(corpus_root):
     else:
         for w in words:
             print w
-        f=open(corpus_root+'\Romanyuk_wordslist1.txt','w')
+        f=open(corpus_root+'\Romanyuk_wordslist.txt','w')
         for word in words:
             f.write(word.encode('utf-8')+'\n')
         f.close()
