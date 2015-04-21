@@ -25,5 +25,5 @@ def corpus_checking(corpus_root):
             f.write(word+'\n')
         f.close()
     
-corpus_root = 'D:\Files'
+corpus_root = 'E:\Files'
 corpus_checking(corpus_root)
