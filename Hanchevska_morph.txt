@@ -1,4 +1,4 @@
-﻿А	    а                   conj:coord 
+﻿А	    а               conj:coord 
                             excl 
                             part 
 
@@ -29,7 +29,7 @@
 привітні    привітний       adj:p:v_naz:compb 
                             adj:p:v_zna:compb
 
-!	        -               SENT_END
+!	        -           SENT_END
 
 Кухня	    кухня           noun:f:v_naz
 
@@ -486,6 +486,22 @@
                           adjp:pasv:past:p:v_zna 
 
 .	       -              SENT_END
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 щодо	   щодо           prep:rv_rod
@@ -1451,6 +1467,10 @@
  
 .	  - 		  SENT_END 
 			  PARA_END   
+
+
+
+
 
 
 
