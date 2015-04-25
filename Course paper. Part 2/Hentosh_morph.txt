@@ -1,0 +1,1062 @@
+﻿зробіть	зробити verb:impr:p:2:perf 
+хороша	хороший adj:f:v_naz:compb 
+називає	називати verb:pres:s:3:imperf 
+подій	подія подіяти noun:p:v_rod 
+					  verb:impr:s:2:perf 
+натуральним	натуральний adj:m:v_oru:compb 
+						adj:n:v_oru:compb 
+						adj:p:v_dav:compb 
+підводив	підводити verb:past:m:imperf 
+запаху	запах noun:m:v_dav 
+			  noun:m:v_mis 
+			  noun:m:v_rod 
+атмосфера	атмосфера noun:f:v_naz 
+вибору	вибір noun:m:v_dav 
+			  noun:m:v_rod 
+пиво	пиво noun:n:v_naz 
+			 noun:n:v_zna 
+наразі	наразі adv 
+напевно	напевно adv 
+семи	сема  noun:f:v_rod 
+				 noun:p:v_naz 
+				 noun:p:v_zna 
+		сім		 numr:p:v_dav 
+				 numr:p:v_mis 
+				 numr:p:v_rod 
+страшно	страшно adv:compb 
+олімпійському	олімпійський adj:m:v_dav 
+							 adj:m:v_mis 
+							 adj:n:v_dav 
+							 adj:n:v_mis 
+лофту	- - 
+грандіозно	грандіозно adv:compb 
+передвиборчу	передвиборчий adj:f:v_zna 
+офіційного	офіційний adj:m:v_rod 
+					  adj:m:v_zna 
+                      adj:n:v_rod 
+підкачало	- - 
+холдингом	холдинг noun:m:v_oru 
+промисловим	промисловий adj:m:v_oru 
+						adj:n:v_oru 
+						adj:p:v_dav 
+смак	смак noun:m:v_naz 
+			 noun:m:v_zna 
+приміщення	приміщення noun:n:v_naz 
+					   noun:n:v_rod 
+					   noun:n:v_zna 
+					   noun:p:v_naz 
+					   noun:p:v_zna 
+гроші	гроші гріш noun:p:v_naz 
+				   noun:p:v_zna 
+				   noun:m:v_mis 
+обмані	обман noun:m:v_mis 
+решта	решта noun:f:v_naz 
+місць	місце noun:p:v_rod 
+чекати	чекати verb:inf:imperf 
+компанією	компанія noun:f:v_oru 
+аля	- - 
+гірка	гірка noun:f:v_naz 
+		гіркий adj:f:v_naz:compb 
+фігня	фігня noun:f:v_naz 
+площу	площа noun:f:v_zna 
+шикарноо	- - 
+виявляється	виявлятися verb:rev:pres:s:3:imperf
+втрати	втрата noun:f:v_rod:v-u 
+			   noun:p:v_naz:v-u 
+			   noun:p:v_zna:v-u 
+dottignies	- - 
+меню	меню noun:n:v_dav:nv 
+			 noun:n:v_mis:nv 
+			 noun:n:v_naz:nv 
+			 noun:n:v_oru:nv 
+			 noun:n:v_rod:nv 
+			 noun:n:v_zna:nv 
+			 noun:p:v_dav:nv 
+			 noun:p:v_mis:nv 
+			 noun:p:v_naz:nv 
+			 noun:p:v_oru:nv 
+			 noun:p:v_rod:nv 
+			 noun:p:v_zna:nv 
+будь	бути verb:impr:s:2:imperf 
+це	цей adj:n:v_naz:&pron:dem
+		adj:n:v_zna:&pron:dem
+процес	процес noun:m:v_naz 
+			   noun:m:v_zna 
+куку	кука noun:f:v_zna 
+суміш	суміш noun:f:v_naz 
+			  noun:f:v_zna 
+спільнота	спільнота noun:f:v_naz 
+змарнували	змарнувати verb:past:p:perf 
+працюватиме	працювати verb:futr:s:3:imperf 
+цікавого	цікавий adj:m:v_rod:compb 
+					adj:m:v_zna:compb	
+					adj:n:v_rod:compb 
+пройшло	пройти verb:past:n:perf 
+чудовий	чудовий adj:m:v_naz:compb 
+				adj:m:v_zna:compb 
+робити	робити verb:inf:imperf 
+мильним	мильний adj:m:v_oru 
+				adj:n:v_oru 
+				adj:p:v_dav 
+інтр'єром	- - 
+вище	вище adv:compr:compr 
+		високий adj:n:v_naz:compr 
+				adj:n:v_zna:compr 
+обладнання	обладнання noun:n:v_naz 
+					   noun:n:v_rod 
+					   noun:n:v_zna 
+					   noun:p:v_naz 
+					   noun:p:v_zna 
+пивна	пивний adj:f:v_naz 
+андрій	- - 
+варитимуть	варити verb:futr:p:3:imperf 
+стадіоні	стадіон noun:m:v_mis 
+файна	файний adj:f:v_naz 
+зоні	зона noun:f:v_dav 
+			 noun:f:v_mis 
+більшості	більшість noun:f:v_dav 
+					  noun:f:v_mis 
+					  noun:f:v_rod 
+					  noun:p:v_naz 
+					  noun:p:v_zna 
+такої	такий adj:f:v_rod:&pron:def 
+країн	країна noun:p:v_rod 
+анна	- - 
+шкандибає	шкандибати verb:pres:s:3:imperf 
+варка	варка noun:f:v_naz
+		варкий adj:f:v_naz
+дизайн	дизайн noun:m:v_naz 
+			   noun:m:v_zna 
+яловичий	яловичий adj:m:v_naz 
+					 adj:m:v_zna 
+вистачає	вистачати verb:pres:s:3:imperf 
+включенням	включення noun:n:v_oru:v-u 
+					  noun:p:v_dav:v-u 
+три	три numr:p:v_naz 
+		numr:p:v_zna 
+	терти verb:impr:s:2:imperf 
+вині	вина noun:f:v_dav 
+			 noun:f:v_mis 
+		вино noun:n:v_mis 
+хмелем	хміль noun:m:v_oru 
+хміль	хміль noun:m:v_naz 
+			  noun:m:v_zna 
+світових	світовий adj:p:v_mis 
+					 adj:p:v_rod 
+					 adj:p:v_zna 
+смачні	смачний adj:p:v_naz:compb 
+				adj:p:v_zna:compb 
+zinnebir	- - 
+часом	часом adv 
+		час noun:m:v_oru 
+посадкових	посадковий adj:p:v_mis 
+					   adj:p:v_rod 
+					   adj:p:v_zna 
+олена	- - 
+чіпси	чіпси noun:p:v_naz 
+			  noun:p:v_zna 
+пластмаса	пластмаса noun:f:v_naz 
+фахівців	фахівець noun:p:v_rod:anim 
+					 noun:p:v_zna:anim 
+зарано	зарано adv 
+потратив	потратити verb:past:m:perf 
+власна	власний adj:f:v_naz 
+анонсований	анонсований adjp:pasv:past:m:v_naz
+						adjp:pasv:past:m:v_zna
+доброго	добрий adj:m:v_rod:compb 
+			   adj:m:v_zna:compb 
+			   adj:n:v_rod:compb 
+виробницта	- - 
+дороге	дорогий adj:n:v_naz:compb 
+				adj:n:v_zna:compb 
+бачила	бачити verb:past:f:imperf 
+охочі	охочий adj:p:v_naz 
+			   adj:p:v_zna 
+солі	сіль noun:f:v_dav 
+			 noun:f:v_mis 
+			 noun:f:v_rod 
+			 noun:p:v_naz
+нема	нема predic 
+відкритися	відкритися verb:rev:inf:perf 
+круто	круто adv 
+ніякі	ніякий adj:p:v_naz:&pron:neg 
+			   adj:p:v_zna:&pron:neg 
+жахливе	жахливий adj:n:v_naz:compb 
+				 adj:n:v_zna:compb 
+запрошена	запрошений adjp:pasv:past:f:v_naz 
+навчає	навчати verb:pres:s:3:imperf 
+містить	містити verb:pres:s:3:imperf 
+дивна	дивний adj:f:v_naz:compb 
+мінімальний	мінімальний adj:m:v_naz 
+						adj:m:v_zna 
+повазі	повага noun:f:v_dav 
+			   noun:f:v_mis 
+народжується	народжуватися verb:rev:pres:s:3:imperf 
+овочеві	овочевий adj:p:v_naz 
+				 adj:p:v_zna
+		овоч noun:m:v_dav 
+третьому	третій adj:m:v_dav 
+				   adj:m:v_mis 
+				   adj:n:v_dav 
+				   adj:n:v_mis 
+карамелі	карамель noun:f:v_dav 
+					 noun:f:v_mis 
+					 noun:f:v_rod 
+лаку	лак noun:m:v_dav 
+			noun:m:v_mis 
+			noun:m:v_rod 
+побачимо	побачити verb:futr:p:1:perf 
+кістковий	кістковий adj:m:v_naz 
+					  adj:m:v_zna 
+такі	такий adj:p:v_naz:&pron:def 
+			  adj:p:v_zna:&pron:def 
+деранківського	- - 
+новий	новий adj:m:v_naz:compb 
+			  adj:m:v_zna:compb 
+скоро	скоро adv:compb 
+дивно	дивно adv:compb 
+світу	світ noun:m:v_dav 
+			 noun:m:v_mis 
+			 noun:m:v_rod 
+		світа noun:f:v_zna:np
+дешевому	дешевий adj:m:v_dav:compb 
+					adj:m:v_mis:compb 
+					adj:n:v_dav:compb 
+					adj:n:v_mis:compb 
+історичний	історичний adj:m:v_naz 
+					   adj:m:v_zna 
+розповіли	розповісти verb:past:p:perf 
+xmas	- - 
+знавці	знавець noun:m:v_mis:anim 
+				noun:p:v_kly:anim 
+				noun:p:v_naz:anim 
+кінці	кінець noun:m:v_mis 
+			   noun:p:v_naz 
+			   noun:p:v_zna 
+шкіри	шкіра noun:f:v_rod 
+			  noun:p:v_naz 
+			  noun:p:v_zna 
+вегетаріанці	вегетаріанець noun:m:v_mis:anim 
+							  noun:p:v_kly:anim 
+							  noun:p:v_naz:anim 
+				вегетаріанка noun:f:v_dav:anim 
+							 noun:f:v_mis:anim 
+історія	історія noun:f:v_naz 
+загальнохарчове	- - 
+салати	салат noun:p:v_naz 
+			  noun:p:v_zna 
+		салата noun:f:v_rod 
+тарелі	таріль noun:m:v_mis 
+			   noun:p:v_naz 
+			   noun:p:v_zna 
+справжнього	справжній adj:m:v_rod 
+					  adj:m:v_zna 
+					  adj:n:v_rod 
+					  adj:n:v_zna 
+марк	- - 
+кабінет	кабінет noun:m:v_naz 
+				noun:m:v_zna 
+різне	різний adj:n:v_naz 
+			   adj:n:v_zna 
+варок	- - 
+цибулева	цибулевий adj:f:v_naz 
+чеське	чеський adj:n:v_naz 
+				adj:n:v_zna 
+пивний	пивний adj:m:v_naz 
+			   adj:m:v_zna 
+закладу	заклад noun:m:v_dav 
+			   noun:m:v_mis 
+			   noun:m:v_rod
+закласти verb:futr:s:1:perf 
+великий	великий adj:m:v_naz:compb 
+				adj:m:v_zna:compb 
+постійних	постійний adj:p:v_mis 
+					  adj:p:v_rod 
+					  adj:p:v_zna 
+вибір	вибір noun:m:v_naz 
+			  noun:m:v_zna 
+ярина	ярина noun:f:v_naz 
+справжнє	справжній adj:n:v_naz 
+					  adj:n:v_zna 
+повільні	повільний adj:p:v_naz:compb 
+					  adj:p:v_zna:compb 
+цілим	цілий adj:m:v_oru 
+			  adj:n:v_oru 
+			  adj:p:v_dav 
+ринок	ринок noun:m:v_naz 
+			  noun:m:v_zna 
+іванович	- - 
+рефлексом	рефлекс noun:m:v_oru 
+столиків	столик noun:p:v_rod 
+чітко	чітко adv:compb 
+кабак	кабак noun:m:v_naz 
+			  noun:m:v_zna 
+відтінків	відтінок noun:p:v_rod 
+їжа	їжа noun:f:v_naz 
+їхнього	їхній adj:m:v_rod:&pron:pos 
+			  adj:m:v_zna:&pron:pos 
+			  adj:n:v_rod:&pron:pos 
+			  adj:n:v_zna:&pron:pos 
+подати	подати verb:inf:perf 
+темне	темний adj:n:v_naz:compb 
+			   adj:n:v_zna:compb 
+перша	перший adj:f:v_naz 
+шаленого	шалений adj:m:v_rod 
+					adj:m:v_zna 
+					adj:n:v_rod 
+решту	решта noun:f:v_zna 
+забігайлівка	забігайлівка noun:f:v_naz 
+власної	власний adj:f:v_rod 
+хвилини	хвилина noun:f:v_rod 
+				noun:p:v_naz 
+				noun:p:v_zna 
+вишуканих	вишуканий adjp:pasv:past:p:v_mis:compb
+					  adjp:pasv:past:p:v_rod:compb
+					  adjp:pasv:past:p:v_zna:compb
+всюди	всюди adv:gen:v-u:&pron 
+дегустацією	дегустація noun:f:v_oru 
+туалеті	туалет noun:m:v_mis 
+цікавим	цікавий adj:m:v_oru:compb 
+				adj:n:v_oru:compb 
+				adj:p:v_dav:compb 
+гречане	гречаний adj:n:v_naz 
+				 adj:n:v_zna 
+рідина	рідина noun:f:v_naz
+біля	біля adv 
+вікно	вікно noun:n:v_naz 
+			  noun:n:v_zna 
+незрівнянно	незрівнянно adv 
+прибиральників	прибиральник noun:p:v_rod:anim 
+							 noun:p:v_zna:anim 
+місце	місце noun:n:v_naz 
+			  noun:n:v_zna 
+устаткування	устаткування noun:n:v_naz:v-u 
+							 noun:n:v_rod:v-u
+							 noun:n:v_zna:v-u 
+пампушки	пампушка noun:f:v_rod 
+					 noun:p:v_naz 
+					 noun:p:v_zna 
+рибу	риба noun:f:v_zna:anim 
+фесту	фест noun:m:v_dav:bad 
+			 noun:m:v_mis:bad 
+			 noun:m:v_rod:bad 
+bitter	- - 
+зробили	зробити verb:past:p:perf 
+насолоджуватись	насолоджуватися verb:rev:inf:imperf 
+жива	живий adj:f:v_naz:compb 
+можливо	можливо adv 
+великі	великий adj:p:v_naz:compb 
+				adj:p:v_zna:compb 
+крафтового	- - 
+лаків	лак noun:p:v_rod 
+впитися	впитися verb:rev:inf:perf:v-u 
+власного	власний adj:m:v_rod 
+					adj:m:v_zna 
+					adj:n:v_rod 
+праву	правий adj:f:v_zna:compb
+		право noun:n:v_dav 
+			  noun:n:v_mis 
+малих	малий adj:p:v_mis:compb 
+			  adj:p:v_rod:compb 
+			  adj:p:v_zna:compb 
+відгуків	відгук noun:p:v_rod 
+місця	місце noun:n:v_rod 
+			  noun:p:v_naz 
+			  noun:p:v_zna 
+іринка	- - 
+гарна	гарний adj:f:v_naz:compb 
+пастер	- - 
+напою	напоїти verb:futr:s:1:perf
+		напій noun:m:v_dav 
+			  noun:m:v_mis 
+			  noun:m:v_rod 
+мережа	мережа noun:f:v_naz 
+вибрати	вибрати verb:inf:perf 
+рідкісна	рідкісний adj:f:v_naz:compb 
+порції	порція noun:f:v_dav 
+			   noun:f:v_mis
+			   noun:f:v_rod
+			   noun:p:v_naz
+			   noun:p:v_zna 
+буду	буда noun:f:v_zna
+		бути verb:futr:s:1:imperf 
+засмакувала	засмакувати verb:past:f:perf 
+позитивний	позитивний adj:m:v_naz:compb 
+					   adj:m:v_zna:compb 
+років	рік noun:p:v_rod 
+форфасів	- - 
+світі	світ noun:m:v_mis 
+		світа noun:f:v_dav:np 
+			  noun:f:v_mis:np 
+фільтр	фільтр noun:m:v_naz 
+			   noun:m:v_zna 
+мозок	мозок noun:m:v_naz 
+			  noun:m:v_zna 
+парою	пара noun:f:v_oru 
+кабінки	кабінка noun:f:v_rod 
+				noun:p:v_naz 
+				noun:p:v_zna 
+компенсувати	компенсувати verb:inf:imperf 
+							 verb:inf:perf 
+показали	показати verb:past:p:perf 
+адекватні	адекватний adj:p:v_naz:compb 
+					   adj:p:v_zna:compb 
+незвичайне	незвичайний adj:n:v_naz 
+						adj:n:v_zna 
+якось	якось adv:&pron:ind 
+надіюсь	надіятися verb:rev:pres:s:1:imperf
+хороше	хороший adj:n:v_naz:compb 
+				adj:n:v_zna:compb 
+смакових	смаковий adj:p:v_mis 
+					 adj:p:v_rod 
+					 adj:p:v_zna 
+ужасне	- - 
+підхожу	підхожий adj:f:v_zna 
+другому	другий adj:m:v_dav 
+			   adj:m:v_mis
+			   adj:n:v_dav
+			   adj:n:v_mis 
+хотіла	хотіти verb:unknown 
+звариться	зваритися verb:rev:futr:s:3:perf 
+пивоварні	пивоварний adj:p:v_naz 
+					   adj:p:v_zna
+			пивоварня noun:f:v_dav 
+					  noun:f:v_mis
+					  noun:f:v_rod
+					  noun:p:v_naz
+					  noun:p:v_zna 
+бару	бар noun:m:v_dav 
+			noun:m:v_mis 
+			noun:m:v_rod 
+локаль	локаль noun:f:v_naz 
+			   noun:f:v_zna 
+сухарі	сухар noun:m:v_mis 
+			  noun:p:v_naz 
+			  noun:p:v_zna 
+підходи	підхід noun:p:v_naz 
+			   noun:p:v_zna 
+володимир	- - 
+позиції	позиція noun:f:v_dav 
+				noun:f:v_mis
+				noun:f:v_rod 
+				noun:p:v_naz 
+				noun:p:v_zna 
+ікспенсів	- - 
+ярослав	- - 
+кожній	кожний adj:f:v_dav:&pron:def 
+			   adj:f:v_mis:&pron:def 
+брати	брати verb:inf:imperf 
+		брат noun:p:v_kly:anim 
+			 noun:p:v_naz:anim 
+основну	основний adj:f:v_zna 
+закуски	закуска noun:f:v_rod 
+				noun:p:v_naz 
+				noun:p:v_zna 
+сметана	сметана 
+noun:f:v_naz 
+фахові	фаховий adj:p:v_naz 
+				adj:p:v_zna 
+		фах noun:m:v_dav 
+передбачається	передбачатися 
+verb:rev:pres:s:3:imperf
+жаль	жаль noun:m:v_naz
+			 noun:m:v_zna 
+гарний	гарний adj:m:v_naz:compb 
+			   adj:m:v_zna:compb 
+gallina	- - 
+відповіді	відповідь noun:f:v_dav 
+					  noun:f:v_mis
+					  noun:f:v_rod
+					  noun:p:v_naz
+					  noun:p:v_zna 
+розчаровує	розчаровувати verb:pres:s:3:imperf 
+привозне	- - 
+сподобалось	сподобатися verb:rev:past:n:perf 
+присутні	присутній adj:p:v_naz 
+					  adj:p:v_zna 
+марта	- - 
+барселони	- - 
+форматі	формат noun:m:v_mis 
+ситуація	ситуація noun:f:v_naz 
+буде	бути verb:futr:s:3:imperf 
+приготування	приготування noun:n:v_naz 
+							 noun:n:v_rod
+							 noun:n:v_zna
+							 noun:p:v_naz
+							 noun:p:v_zna 
+низку	низка noun:f:v_zna 
+бітнер	- - 
+хроном	хрін noun:m:v_oru 
+тематичний	тематичний adj:m:v_naz 
+					   adj:m:v_zna 
+поверхи	поверх noun:p:v_naz 
+			   noun:p:v_zna 
+світле	світлий adj:n:v_naz:compb 
+				adj:n:v_zna:compb 
+справжньому	справжній adj:m:v_dav 
+					  adj:m:v_mis 
+					  adj:n:v_dav 
+					  adj:n:v_mis 
+прямо	прямо adv:compb 
+мають	мати verb:pres:p:3:imperf 
+		маяти verb:pres:p:3:imperf 
+весна	весна noun:f:v_naz 
+локалівській	- - 
+дзиґи	дзиґа noun:f:v_rod 
+			  noun:p:v_naz 
+			  noun:p:v_zna 
+присмаком	присмак noun:m:v_oru 
+варки	варка noun:f:v_rod 
+прекрасне	прекрасний adj:n:v_naz:compb 
+					   adj:n:v_zna:compb 
+було	бути verb:past:n:imperf 
+існує	існувати verb:pres:s:3:imperf 
+німецьке	німецький adj:n:v_naz 
+					  adj:n:v_zna 
+тетяна	- - 
+була	булий adjp:actv:past:f:v_naz
+		бути verb:past:f:imperf 
+оркестром	оркестр noun:m:v_oru 
+придбати	придбати verb:inf:perf 
+переважної	переважний adj:f:v_rod 
+гострий	гострий adj:m:v_naz:compb 
+				adj:m:v_zna:compb 
+бульйон	бульйон noun:m:v_naz 
+				noun:m:v_zna 
+емоцій	емоція noun:p:v_rod 
+гучно	гучно adv:compb 
+оркестр	оркестр noun:m:v_naz 
+				noun:m:v_zna 
+офіціантка	офіціантка noun:f:v_naz:anim 
+ян	- - 
+ідеально	ідеально adv 
+грає	грати verb:pres:s:3:imperf 
+гірке	гіркий adj:n:v_naz:compb
+			   adj:n:v_zna:compb 
+розповіла	розповісти verb:past:f:perf 
+назвати	назвати verb:inf:perf 
+тарас	- - 
+констатація	констатація noun:f:v_naz 
+видом	вид noun:m:v_oru 
+дивитися	дивитися verb:rev:inf:imperf 
+кава	кава noun:f:v_naz 
+профі	профі noun:m:v_dav:nv:anim
+			  noun:m:v_kly:nv:anim
+			  noun:m:v_mis:nv:anim
+			  noun:m:v_naz:nv:anim
+			  noun:m:v_oru:nv:anim
+			  noun:m:v_rod:nv:anim
+			  noun:m:v_zna:nv:anim
+			  noun:p:v_dav:nv:anim
+			  noun:p:v_kly:nv:anim
+			  noun:p:v_mis:nv:anim
+			  noun:p:v_naz:nv:anim
+			  noun:p:v_oru:nv:anim
+			  noun:p:v_rod:nv:anim
+			  noun:p:v_zna:nv:anim 
+рекомендую	рекомендувати verb:futr:s:1:perf 
+						  verb:pres:s:1:imperf 
+кампанію	кампанія noun:f:v_zna 
+року	рок noun:m:v_dav 
+			noun:m:v_mis 
+			noun:m:v_rod 
+		рік noun:m:v_dav 
+			noun:m:v_rod 
+побачити	побачити verb:inf:perf 
+прекрасний	прекрасний adj:m:v_naz:compb 
+					   adj:m:v_zna:compb 
+напоїв	напоїти verb:past:m:perf
+		напій noun:p:v_rod 
+туалет	туалет noun:m:v_naz 
+			   noun:m:v_zna 
+атмосферне	атмосферний adj:n:v_naz 
+						adj:n:v_zna 
+вигляд	вигляд noun:m:v_naz 
+			   noun:m:v_zna 
+приходити	приходити verb:inf:imperf 
+пересмажені	пересмажений adjp:pasv:past:p:v_naz 
+						 adjp:pasv:past:p:v_zna 
+нюта	- - 
+замовили	замовити verb:past:p:perf 
+соусу	соус noun:m:v_dav 
+			 noun:m:v_mis 
+			 noun:m:v_rod 
+гостям	гостя noun:p:v_dav:anim 
+		гість noun:p:v_dav:anim 
+мінуси	мінус noun:p:v_naz 
+			  noun:p:v_zna 
+каток	каток noun:m:v_naz 
+			  noun:m:v_zna 
+переконують	переконувати verb:pres:p:3:imperf 
+підозрілим	підозрілий adj:m:v_oru 
+					   adj:n:v_oru 
+					   adj:p:v_dav 
+сік	сік noun:m:v_naz 
+		noun:m:v_zna 
+	сікти verb:past:m:imperf 
+сподобалась	сподобатися verb:rev:past:f:perf 
+смачна	смачний adj:f:v_naz:compb 
+ранок	ранок noun:m:v_naz 
+			  noun:m:v_zna
+		ранка noun:p:v_rod 
+закрити	закрити verb:inf:perf 
+одноразових	одноразовий adj:p:v_mis 
+						adj:p:v_rod 
+						adj:p:v_zna 
+картонному	картонний adj:m:v_dav 
+					  adj:m:v_mis 
+					  adj:n:v_dav 
+					  adj:n:v_mis 
+привітний	привітний adj:m:v_naz:compb 
+					  adj:m:v_zna:compb 
+алкоголю	алкоголь noun:m:v_dav 
+					 noun:m:v_mis 
+					 noun:m:v_rod 
+раджу	раджа noun:f:v_zna:anim
+		радити verb:pres:s:1:imperf
+альбіна	- - 
+відчищання	відчищання noun:n:v_naz 
+					   noun:n:v_rod 
+					   noun:n:v_zna 
+зупа	зупа noun:f:v_naz:rare 
+львова	- - 
+поїсти	поїсти verb:inf:perf 
+ростбіф	ростбіф noun:m:v_naz 
+				noun:m:v_zna 
+крафтові	- - 
+столики	столик noun:p:v_naz 
+			   noun:p:v_zna 
+офіціанти	офіціант noun:p:v_kly:anim 
+					 noun:p:v_naz:anim 
+повертається	повертатися verb:rev:pres:s:3:imperf
+ремонт	ремонт noun:m:v_naz 
+			   noun:m:v_zna 
+заважає	заважати verb:pres:s:3:imperf 
+говорив	говорити verb:past:m:imperf 
+іспанець	іспанець noun:m:v_naz:anim 
+спробувати	спробувати verb:inf:perf 
+має	мати verb:pres:s:3:imperf
+	маяти verb:pres:s:3:imperf 
+дніпропетровця	дніпропетровець noun:m:v_rod:anim 
+								noun:m:v_zna:anim 
+безкоштовне	безкоштовний adj:n:v_naz 
+						 adj:n:v_zna 
+кутку	куток noun:m:v_dav 
+			  noun:m:v_mis 
+пухлина	пухлина noun:f:v_naz 
+офіціантки	офіціантка noun:f:v_rod:anim 
+					   noun:p:v_kly:anim 
+					   noun:p:v_naz:anim 
+фарби	фарба noun:f:v_rod 
+			  noun:p:v_naz 
+			  noun:p:v_zna 
+місто	місто noun:n:v_naz 
+			  noun:n:v_zna 
+local	- - 
+олександр	- - 
+ніде	ніде adv:&pron:neg 
+негативних	негативний adj:p:v_mis:compb 
+					   adj:p:v_rod:compb 
+					   adj:p:v_zna:compb 
+буда	буда noun:f:v_naz 
+єр	- - 
+такого	такий adj:m:v_rod:&pron:def 
+			  adj:m:v_zna:&pron:def 
+			  adj:n:v_rod:&pron:def 
+персонал	персонал noun:m:v_naz 
+					 noun:m:v_zna 
+копчений	копчений adjp:pasv:past:m:v_naz
+					 adjp:pasv:past:m:v_zna
+лимону	лимон noun:m:v_dav 
+			  noun:m:v_mis 
+набагато	набагато adv 
+розростається	розростатися verb:rev:pres:s:3:imperf
+гарного	гарний adj:m:v_rod:compb 
+			   adj:m:v_zna:compb 
+			   adj:n:v_rod:compb 
+власників	власник noun:p:v_rod:anim 
+					noun:p:v_zna:anim 
+щонеменш	- - 
+імбирне	імбирний adj:n:v_naz 
+				 adj:n:v_zna 
+пивоваріння	пивоваріння noun:n:v_naz 
+						noun:n:v_rod 
+						noun:n:v_zna 
+						noun:p:v_naz 
+						noun:p:v_zna 
+найкраща	хороший adj:f:v_naz:super 
+запах	запах noun:m:v_naz 
+			  noun:m:v_zna
+		запахнути verb:past:m:perf 
+болгарії	- - 
+слабеньке	слабенький adj:n:v_naz 
+					   adj:n:v_zna 
+пивоваром	пивовар noun:m:v_oru:anim 
+настойкою	настойка noun:f:v_oru
+варниця	варниця noun:f:v_naz 
+виділяю	виділяти verb:pres:s:1:imperf 
+їжі	їжа noun:f:v_dav 
+		noun:f:v_mis 
+		noun:f:v_rod 
+декади	декада noun:f:v_rod 
+			   noun:p:v_naz 
+			   noun:p:v_zna 
+нормальне	нормальний adj:n:v_naz 
+					   adj:n:v_zna 
+баселлем	- - 
+робив	робити verb:past:m:imperf 
+обгорне	обгорнути verb:futr:s:3:perf 
+плюси	плюс noun:p:v_naz 
+			 noun:p:v_zna 
+справжнім	справжній adj:m:v_mis 
+					  adj:m:v_oru 
+					  adj:n:v_mis 
+					  adj:n:v_oru 
+					  adj:p:v_dav 
+посипана	посипаний adjp:pasv:past:f:v_naz 
+вокзальна	вокзальний adj:f:v_naz 
+брудно	брудно adv:compb 
+якраз	якраз adv 
+			  part 
+закусок	закуска noun:p:v_rod 
+збіговиську	збіговисько noun:n:v_dav 
+						noun:n:v_mis 
+печально	печально adv:rare 
+потрапили	потрапити verb:past:p:perf 
+гіркотою	гіркота noun:f:v_oru 
+засновником	засновник noun:m:v_oru:anim 
+публічний	публічний adj:m:v_naz 
+					  adj:m:v_zna 
+saison	- - 
+доповнює	доповнювати verb:pres:s:3:imperf 
+кранів	кран noun:p:v_rod 
+доробили	доробити verb:past:p:perf 
+запуск	запуск noun:m:v_naz 
+			   noun:m:v_zna 
+розчинників	розчинник noun:p:v_rod 
+омана	омана noun:f:v_naz 
+відкривати	відкривати verb:inf:imperf 
+роботи	роботи noun:unknown
+		робот noun:p:v_kly:anim 
+			  noun:p:v_naz:anim 
+		робота noun:f:v_rod 
+			   noun:p:v_naz 
+			   noun:p:v_zna 
+шматки	шматок noun:p:v_naz 
+			   noun:p:v_zna 
+нового	новий adj:m:v_rod:compb 
+			  adj:m:v_zna:compb 
+			  adj:n:v_rod:compb 
+діана	- - 
+смачне	смачний adj:n:v_naz:compb 
+				adj:n:v_zna:compb 
+гостеві	гість noun:m:v_dav:anim 
+			  noun:m:v_mis:anim 
+п'янкою	п'янка noun:f:v_oru:bad 
+		п'янкий adj:f:v_oru
+розпробували	- - 
+ароматною	ароматний adj:f:v_oru:compb 
+оксана	- - 
+півтораста	півтораста numr:p:v_dav:nv 
+					   numr:p:v_mis:nv 
+					   numr:p:v_naz:nv 
+					   numr:p:v_oru:nv 
+					   numr:p:v_rod:nv 
+					   numr:p:v_zna:nv 
+страви	страва noun:f:v_rod 
+			   noun:p:v_naz 
+			   noun:p:v_zna 
+робіт	роботи noun:unknown 
+сіллю	сіль noun:f:v_oru 
+очах	око noun:p:v_mis 
+сподобались	сподобатися verb:rev:past:p:perf 
+пивом	пиво noun:n:v_oru 
+пивовари	пивовар noun:p:v_kly:anim 
+					noun:p:v_naz:anim 
+ракова	раковий adj:f:v_naz 
+невідповідність	невідповідність noun:f:v_naz 
+								noun:f:v_zna 
+будівельної	будівельний adj:f:v_rod 
+копчена	копчений adjp:pasv:past:f:v_naz 
+власником	власник noun:m:v_oru:anim 
+гурмана	гурман noun:m:v_rod:anim 
+			   noun:m:v_zna:anim 
+короткої	короткий adj:f:v_rod:compb 
+реально	реально adv:compb 
+стане	станути verb:futr:s:3:perf 
+		стати verb:futr:s:3:perf 
+переморожена	переморожений adjp:pasv:past:f:v_naz 
+якістю	якість noun:f:v_oru 
+спішили	спішити verb:past:p:imperf 
+				verb:past:p:perf 
+бірофілів	- - 
+надто	надто adv 
+шо	- - 
+специфічна	специфічний adj:f:v_naz 
+передбачаю	передбачати verb:pres:s:1:imperf 
+мінус	мінус noun:m:v_naz 
+			  noun:m:v_zna 
+чекаємо	чекати verb:pres:p:1:imperf 
+воду	вода noun:f:v_zna
+подобається	подобатися verb:rev:pres:s:3:imperf
+звичайна	звичайний adj:f:v_naz:compb 
+займає	займати verb:pres:s:3:imperf 
+розводку	розводка noun:f:v_zna 
+експортує	експортувати verb:futr:s:3:perf 
+						 verb:pres:s:3:imperf 
+розливних	розливний adj:p:v_mis 
+					  adj:p:v_rod 
+					  adj:p:v_zna 
+цікаве	цікавий adj:n:v_naz:compb 
+				adj:n:v_zna:compb 
+споживач	споживач noun:m:v_naz:anim 
+відкрились	відкритися verb:rev:past:p:perf 
+броварня	броварня noun:f:v_naz 
+лекції	лекція noun:f:v_dav 
+			   noun:f:v_mis 
+			   noun:f:v_rod 
+			   noun:p:v_naz 
+			   noun:p:v_zna 
+ексклюзивне	ексклюзивний adj:n:v_naz 
+						 adj:n:v_zna 
+свинячої	свинячий adj:f:v_rod 
+крутий	крутий adj:m:v_naz:compb 
+			   adj:m:v_zna:compb 
+вікна	вікно noun:n:v_rod 
+			  noun:p:v_naz 
+			  noun:p:v_zna 
+сортів	сорт noun:p:v_rod 
+несмачна	несмачний adj:f:v_naz 
+поверсі	поверх noun:m:v_mis 
+серйозні	серйозний adj:p:v_naz:compb 
+					  adj:p:v_zna:compb 
+подача	подача noun:f:v_naz 
+чудове	чудовий adj:n:v_naz:compb 
+				adj:n:v_zna:compb 
+бридка	бридкий adj:f:v_naz:compb 
+були	бути verb:past:p:imperf 
+стоїть	стояти verb:pres:s:3:imperf 
+момент	момент noun:m:v_naz 
+			   noun:m:v_zna
+першого	перший adj:m:v_rod 
+			   adj:m:v_zna 
+			   adj:n:v_rod 
+шинка	шинка noun:f:v_naz
+		шинок noun:m:v_rod 
+маса	маса noun:f:v_naz 
+мале	малий adj:n:v_naz:compb 
+			  adj:n:v_zna:compb 
+жахливо	жахливо adv:compb 
+чекайте	чекати verb:impr:p:2:imperf 
+відкриття	відкриття noun:n:v_naz 
+					  noun:n:v_rod 
+					  noun:n:v_zna 
+відкривають	відкривати verb:pres:p:3:imperf 
+чіпси	чіпси noun:p:v_naz 
+			  noun:p:v_zna 
+єдиний	єдиний adj:m:v_naz 
+			   adj:m:v_zna 
+любителя	любитель noun:m:v_rod:anim 
+					 noun:m:v_zna:anim 
+куліш	куліш noun:unknown 
+тартар	тартар noun:m:v_naz 
+			   noun:m:v_zna 
+ввечері	ввечері adv:v-u 
+львові	- - 
+штука	штука noun:f:v_naz 
+неділям	неділя noun:p:v_dav 
+вино	вино noun:n:v_naz 
+			 noun:n:v_zna 
+хорошим	хороший adj:m:v_oru:compb 
+				adj:n:v_oru:compb 
+				adj:p:v_dav:compb 
+небайдужих	небайдужий adj:p:v_mis 
+					   adj:p:v_rod 
+					   adj:p:v_zna 
+офіціантів	офіціант noun:p:v_rod:anim 
+					 noun:p:v_zna:anim 
+бідне	бідний adj:n:v_naz:compb 
+			   adj:n:v_zna:compb 
+емоція	емоція noun:f:v_naz 
+кишені	кишеня noun:f:v_dav 
+			   noun:f:v_mis 
+			   noun:f:v_rod 
+			   noun:p:v_naz 
+			   noun:p:v_zna 
+працюйте	працювати verb:impr:p:2:imperf 
+сувеніри	сувенір noun:p:v_naz 
+					noun:p:v_zna 
+пробували	пробувати verb:past:p:imperf 
+петро	- - 
+найкращі	хороший adj:p:v_naz:super 
+					adj:p:v_zna:super 
+трішки	трішки adv 
+порозслаблятись	- - 
+туристів	турист noun:p:v_rod:anim 
+				   noun:p:v_zna:anim 
+яке	який adj:n:v_naz:&pron:int:rel:def
+		 adj:n:v_zna:&pron:int:rel:def
+розчарування	розчарування noun:n:v_naz 
+							 noun:n:v_rod 
+							 noun:n:v_zna 
+							 noun:p:v_naz 
+							 noun:p:v_zna 
+вміння	вміння noun:n:v_naz:v-u 
+			   noun:n:v_rod:v-u 
+			   noun:n:v_zna:v-u 
+			   noun:p:v_naz:v-u 
+			   noun:p:v_zna:v-u 
+святослав	- - 
+цікаво	цікаво adv:compb 
+смачнючим	- - 
+особливих	особливий adj:p:v_mis 
+					  adj:p:v_rod 
+					  adj:p:v_zna 
+персонального	персональний adj:m:v_rod 
+							 adj:m:v_zna 
+							 adj:n:v_rod 
+стерильній	стерильний adj:f:v_dav 
+					   adj:f:v_mis 
+пітонів	пітон noun:p:v_rod:anim 
+			  noun:p:v_zna:anim 
+бельгії	- - 
+суцільне	суцільний adj:n:v_naz 
+					  adj:n:v_zna 
+симпатичні	симпатичний adj:p:v_naz:compb 
+						adj:p:v_zna:compb 
+смачним	смачний adj:m:v_oru:compb 
+				adj:n:v_oru:compb 
+				adj:p:v_dav:compb 
+супер	супер noun:m:v_naz 
+			  noun:m:v_zna 
+закрили	закрити verb:past:p:perf 
+другої	другий adj:f:v_rod 
+обережно	обережно adv:compb 
+страв	страва noun:p:v_rod 
+цілому	цілий adj:m:v_dav 
+			  adj:m:v_mis 
+			  adj:n:v_dav 
+			  adj:n:v_mis 
+анастасія	- - 
+досхочу	досхочу adv 
+чекаю	чекати verb:pres:s:1:imperf 
+повна	повний adj:f:v_naz:compb 
+духовий	духовий adj:m:v_naz 
+				adj:m:v_zna 
+паб	паб noun:m:v_naz 
+		noun:m:v_zna 
+львів	- - 
+надзвичайною	надзвичайний adj:f:v_oru 
+захід	захід noun:m:v_naz 
+			  noun:m:v_zna 
+нереально	нереально adv 
+думаю	думати verb:pres:s:1:imperf 
+працюють	працювати verb:pres:p:3:imperf 
+жахливі	жахливий adj:p:v_naz:compb 
+				 adj:p:v_zna:compb 
+кухня	кухня noun:f:v_naz 
+ідея	ідея noun:f:v_naz 
+картопляні	картопляний adj:p:v_naz 
+						adj:p:v_zna 
+типи	тип noun:p:v_kly:anim 
+			noun:p:v_naz 
+			noun:p:v_naz:anim 
+			noun:p:v_zna 
+дорого	дорого adv:compb 
+ціни	цінити verb:impr:s:2:imperf
+		ціна noun:f:v_rod 
+			 noun:p:v_naz 
+			 noun:p:v_zna 
+революція	революція noun:f:v_naz 
+фест	фест noun:m:v_naz:bad 
+			 noun:m:v_zna:bad 
+завершення	завершення noun:n:v_naz 
+					   noun:n:v_rod 
+					   noun:n:v_zna 
+					   noun:p:v_naz 
+					   noun:p:v_zna 
+тішить	тішити verb:pres:s:3:imperf 
+гіркувате	гіркуватий adj:n:v_naz 
+					   adj:n:v_zna 
+ксенія	- - 
+скудне	- - 
+сушену	сушений adj:f:v_zna:&adjp:pasv:past
+щастя	щастя noun:n:v_naz 
+			  noun:n:v_rod 
+			  noun:n:v_zna 
+			  noun:p:v_naz 
+			  noun:p:v_zna 
+спеціально	спеціально adv 
+скромно	скромно adv:compb 
+вода	вода noun:f:v_naz 
+бочками	бочка noun:p:v_oru 
+		бочок noun:p:v_oru 
+цікавий	цікавий adj:m:v_naz:compb 
+				adj:m:v_zna:compb 
+чай	чай noun:m:v_naz 
+		noun:m:v_zna 
+ніно	- - 
+малий	малий adj:m:v_naz:compb 
+			  adj:m:v_zna:compb
+ніяка	ніякий adj:f:v_naz:&pron:neg 
+пива	пиво noun:n:v_rod 
+			 noun:p:v_naz 
+			 noun:p:v_zna 
+містом	місто noun:n:v_oru 
+ресторані	ресторан noun:m:v_mis 
+власне	власне власний adj:n:v_naz 
+					   adj:n:v_zna 
+третьої	третій adj:f:v_rod 
+нога	нога noun:f:v_naz 
+виглядає	виглядати verb:pres:s:3:imperf 
+маленьким	маленький adj:m:v_oru 
+					  adj:n:v_oru 
+					  adj:p:v_dav 
+зберігатимуть	зберігати verb:futr:p:3:imperf 
+відбувся	відбутися verb:rev:past:m:perf 
+львівська	львівський adj:f:v_naz 
+джазовим	джазовий adj:m:v_oru 
+					 adj:n:v_oru 
+					 adj:p:v_dav 
+хмільного	хмільний adj:m:v_rod 
+					 adj:m:v_zna 
+					 adj:n:v_rod 
+виготовлене	виготовлений adjp:pasv:past:n:v_naz 
+						 adjp:pasv:past:n:v_zna 
+нових	новий adj:p:v_mis:compb 
+			  adj:p:v_rod:compb 
+			  adj:p:v_zna:compb 
+важко	важко adv:compb 
+інтер	- - 
+фуршетом	фуршет noun:m:v_oru 
+дорога	дорога noun:f:v_naz 
+		дорогий adj:f:v_naz:compb 
+музика	музика noun:f:v_naz 
+			   noun:f:v_naz:anim 
+стосовно	стосовно adv 
+плюс	плюс noun:m:v_naz 
+			 noun:m:v_zna 
+ззовні	ззовні adv 
+вид	вид noun:m:v_naz 
+		noun:m:v_zna 
+їсти	їсти verb:inf:imperf 
+атмосферою	атмосфера noun:f:v_oru 
+смачно	смачно adv:compb 
+павло	- - 
+крафтова	- - 
+виробництва	виробництво noun:n:v_rod 
+						noun:p:v_naz 
+						noun:p:v_zna 
+відкриті	відкритий adjp:pasv:past:p:v_naz:compb
+					  adjp:pasv:past:p:v_zna:compb
+оригінальна	оригінальний adj:f:v_naz:compb 
+зустріч	зустріч noun:f:v_naz 
+				noun:f:v_zna 
+класна	класний adj:f:v_naz 
+заклад	заклад noun:m:v_naz 
+			   noun:m:v_zna 
+вариться	варитися verb:rev:pres:s:3:imperf 
+різноманітне	різноманітний adj:n:v_naz:compb 
+							  adj:n:v_zna:compb 
+концептуальний	концептуальний adj:m:v_naz 
+							   adj:m:v_zna    
